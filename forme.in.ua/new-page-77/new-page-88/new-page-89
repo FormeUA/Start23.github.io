@@ -1,0 +1,1901 @@
+<!DOCTYPE html>
+<html class="mobile " prefix="og: http://ogp.me/ns#" lang="ru-ua" dir="ltr" itemscope itemtype="http://schema.org/WebSite" data-page-type="pageBlank">
+<head>
+<title>Чем мы живем - Forme</title>
+<script src="/cdn-cgi/apps/head/p-XpnrP83Vt5olqyT6bWc9eT0F0.js"></script><link rel="alternate" href="https://forme.in.ua/new-page-77/new-page-88/new-page-89" hreflang="x-default" />
+<link rel="alternate" href="https://forme.in.ua/new-page-77/new-page-88/new-page-89" hreflang="ru-ua" />
+<meta itemprop="name" content="Чем мы живем - Forme">
+<meta name="twitter:title" content="Чем мы живем - Forme">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@ucraftcom" />
+<meta property="og:title" content="Чем мы живем - Forme" />
+<meta property="og:url" content="https://forme.in.ua/new-page-77/new-page-88/new-page-89">
+<meta property="og:type" content="website" />
+<link rel="dns-prefetch" href="//static.ucraft.net/fs">
+<link rel="dns-prefetch" href="//static.ucraft.app">
+<meta name="description" content="Мы живем целью, которая позволит людям чувствовать себя лучше ">
+<meta itemprop="description" content="Мы живем целью, которая позволит людям чувствовать себя лучше ">
+<meta name="twitter:description" content="Мы живем целью, которая позволит людям чувствовать себя лучше ">
+<meta property="og:description" content="Мы живем целью, которая позволит людям чувствовать себя лучше " />
+<meta name="generator" content="Ucraft" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="https://forme.in.ua/new-page-77/new-page-88/new-page-89" rel="canonical" />
+<meta name="image" content="https://static.ucraft.net/fs/publishedFiles/fome/images/originals/562-pageScreenshot.jpg">
+<meta property="og:image" content="https://static.ucraft.net/fs/publishedFiles/fome/images/originals/562-pageScreenshot.jpg" />
+<meta property="og:image:secure_url" content="https://static.ucraft.net/fs/publishedFiles/fome/images/originals/562-pageScreenshot.jpg" />
+<meta property="og:image:width" content="524" />
+<meta property="og:image:height" content="394" />
+<meta itemprop="image" content="https://static.ucraft.net/fs/publishedFiles/fome/images/originals/562-pageScreenshot.jpg">
+<meta name="twitter:image" content="https://static.ucraft.net/fs/publishedFiles/fome/images/originals/562-pageScreenshot.jpg">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=0" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="apple-mobile-web-app-capable" content="YES" />
+<meta name="public-js/config/asset-manifest" content="%7B%22bundles%22%3A%7B%22account-engine%22%3A%7B%22assets%22%3A%5B%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fengine-vendor.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fengine.css%22%2C%22type%22%3A%22css%22%7D%2C%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fengine.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fintl%2Fintl.complete.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fintl%2Fintl.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fintl%2Fintl.min.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fintl%2Flocales%2Fen.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fintl%2Flocales%2Fhy.js%22%2C%22type%22%3A%22js%22%7D%2C%7B%22uri%22%3A%22https%3A%2F%2Fstatic.ucraft.app%2Ffrontend-public%2Fengines-dist%2Faccount-engine%2Fassets%2Fintl%2Flocales%2Fru.js%22%2C%22type%22%3A%22js%22%7D%5D%7D%2C%22assets%22%3A%7B%22assets%22%3A%5B%5D%7D%7D%7D" />
+<meta name="public-js/config/environment" content="%7B%22modulePrefix%22%3A%22public-js%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22/%22%2C%22locationType%22%3A%22hash%22%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%7D%2C%22APP%22%3A%7B%22name%22%3A%22public-js%22%2C%22version%22%3A%220.0.0+56cc87f8%22%7D%2C%22torii%22%3A%7B%22providers%22%3A%7B%22vk-oauth2%22%3A%7B%22apiKey%22%3A%22%22%2C%22redirectUri%22%3A%22%22%7D%2C%22facebook-oauth2%22%3A%7B%22apiKey%22%3A%22%22%2C%22redirectUri%22%3A%22%22%7D%2C%22google-oauth2%22%3A%7B%22apiKey%22%3A%22%22%2C%22redirectUri%22%3A%22%22%2C%22scope%22%3A%22profile%20email%22%7D%7D%7D%2C%22exportApplicationGlobal%22%3Afalse%2C%22ember-modal-dialog%22%3A%7B%7D%7D" />
+<meta name="account-engine/config/environment" content="%7B%22modulePrefix%22%3A%22account-engine%22%2C%22environment%22%3A%22production%22%2C%22torii%22%3A%7B%22disableRedirectInitializer%22%3Atrue%7D%7D" />
+<meta name="robots" content="index, follow" />
+<link rel="icon" type="image/png" href="https://static.ucraft.net/fs/publishedFiles/fome/images/favicon.png?v=1572179120" />
+<link href="https://fonts.googleapis.com/css?family=Abril+Fatface:400,600,700,800|Aclonica:400,600,700,800|Lato:400,300,300italic,700,700italic,400italic:400,600,700,800|Lora:400,700,700italic,400italic:400,600,700,800|Montserrat:400,700,400italic:400,600,700,800|Open+Sans:400,600,600italic,700,800,400italic:400,600,700,800|Oswald:400,700:400,600,700,800|Playfair+Display:400,700italic,700,400italic:400,600,700,800|Raleway:400,700:400,600,700,800|Roboto:400,700,700italic,400italic:400,600,700,800|Ubuntu:400,700,700italic,400italic" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://static.ucraft.net/fs/publishedFiles/fome/css/public.css?v=1572179092">
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/95c75768/cloudflare-static/rocket-loader.min.js" data-cf-settings="5d3d16633a309b6f162ffd49-|49"></script><link rel="stylesheet" type="text/css" href="https://static.ucraft.app/assets/fonts/icomoon.css?v=1571946508" media="none" onload="if(media!=='all')media='all'">
+<link rel="stylesheet" type="text/css" href="https://static.ucraft.app/css/white-label/ucraft.css?v=1571946508">
+<script type="5d3d16633a309b6f162ffd49-text/javascript">
+    window.currentLanguage = 'ru-ua';
+    window.currentLanguagePrefix = 'ru';
+
+    let renderCustomCodeOnClientDomain = "";
+    window.renderCustomCodeOnClientDomain = !renderCustomCodeOnClientDomain ? 0 : parseInt(renderCustomCodeOnClientDomain);
+</script>
+<script type="5d3d16633a309b6f162ffd49-text/javascript">
+
+            window.hrefLangRelations = '{"type":"0","urls":{"ru":"https:\/\/forme.in.ua\/ru"},"currentPrefix":"ru","detectedPrefix":"ru","additionalCodes":[],"routPrefix":null}';
+
+    tryToRedirectToRightLanguage(null);
+
+    
+    function tryToRedirectToRightLanguage(languagePrefix) {
+
+        if (isCustomDomain()) {
+
+            const cookies = getCookieObject();
+
+            var lastLanguage = languagePrefix;
+
+            if (!lastLanguage) {
+                lastLanguage = getLastLanguageFromCookies(cookies);
+            }
+
+            var languagesObj = JSON.parse(window.hrefLangRelations);
+
+            const defaultLanguagePrefix = getDefaultLanguagePrefix();
+
+            const assignedLangPrefix = getAssignedLangPrefix();
+
+            if (languagesObj.routPrefix && languagesObj.urls.hasOwnProperty(languagesObj.routPrefix)) {
+                if (lastLanguage !== languagesObj.routPrefix || defaultLanguagePrefix == languagesObj.routPrefix
+                    || assignedLangPrefix === lastLanguage) {
+
+                    var url = languagesObj.urls[languagesObj.routPrefix];
+
+                    if (url === decodeURI(window.location.origin + window.location.pathname).replace(/\/$/, "")) {
+                        if (assignedLangPrefix === languagesObj.routPrefix || defaultLanguagePrefix == languagesObj.routPrefix) {
+                            url = url.replace('/' + languagesObj.routPrefix, '');
+                        }
+                    }
+
+                    setLanguageCookie(languagesObj.routPrefix, url);
+                }
+
+                return false;
+
+            } else {
+                var hrefLangPrefix = '';
+
+                for (var languageCode in languagesObj.urls) {
+                    if (lastLanguage) {
+                        if (lastLanguage === languageCode
+                            // && defaultLanguagePrefix !== lastLanguage
+                            && languagesObj.currentPrefix !== languageCode) {
+                            window.location.replace(languagesObj.urls[languageCode]);
+                            return false;
+                        }
+                    } else {
+                        if (languagesObj.type == "2") {
+                            hrefLangPrefix = languageCode.split('-').pop();
+                        } else {
+                            hrefLangPrefix = languageCode
+                        }
+                        if (defaultLanguagePrefix !== languagesObj.detectedPrefix
+                            && languagesObj.currentPrefix !== hrefLangPrefix) {
+                            if (hrefLangPrefix === languagesObj.detectedPrefix) {
+                                window.location.replace(languagesObj.urls[languageCode]);
+                                return false;
+                            } else {
+                                for (var code in languagesObj.additionalCodes) {
+                                    var currentCode = languagesObj.additionalCodes[code];
+
+                                    currentCode.forEach(item => {
+                                        if (item.includes(`-${languagesObj.detectedPrefix}`) &&
+                                            defaultLanguagePrefix !== languagesObj.detectedPrefix &&
+                                            languagesObj.currentPrefix !== hrefLangPrefix) {
+                                            window.location.replace(languagesObj.urls[code]);
+                                            return false;
+                                        }
+                                    });
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    function getCookieObject() {
+        const cookies = document.cookie;
+
+        return cookies.split('; ').map((item) => {
+            let [key, value] = item.split('=');
+            return {[key]: value};
+        });
+    }
+
+    function getLastLanguageFromCookies(cookies) {
+        let lastLanguage = null;
+
+        for (cookie of cookies) {
+            if (cookie['lastlanguage']) {
+                lastLanguage = cookie['lastlanguage'];
+                break;
+            }
+        }
+
+        return lastLanguage;
+    }
+
+    function isCustomDomain() {
+        return 1;
+    }
+
+    function getDefaultLanguagePrefix() {
+        return "ru";
+    }
+
+    function getAssignedLangPrefix() {
+        return ""
+    }
+
+    function setLanguageCookie(prefix, url) {
+        var d = new Date();
+        var hour = 20;
+        d.setTime(d.getTime() + (hour * 60 * 60 * 1000));
+        var cookieExpireDate = "expires=" + d.toString();
+        document.cookie = "lastlanguage=" + prefix + ";path=/; " + cookieExpireDate;
+        if (url) {
+            window.location.replace(url);
+        }
+    }
+</script>
+</head>
+<body class=" txlive">
+
+<link rel="stylesheet" type="text/css" href="https://static.ucraft.app/frontend-public/assets/vendor.css?v=1571946508" />
+<link rel="stylesheet" type="text/css" href="https://static.ucraft.app/frontend-public/assets/public-js.css?v=1571946508" />
+<div class="main-container">
+<div class="main-body">
+<div class="main-layout
+		                ">
+<div class="layers-container">
+<div class="layer">
+<div class="off-canvas" style=" width:20vw;">
+<div class="off-canvas-scroll-container">
+<div class="off-canvas-close uci-close" style="color:#999;"></div>
+<div class="off-canvas-inner-container native-scroll-box y-scroll">
+<div class="header-row-wrapper">
+<div class="uc-row-wrapper ">
+<div class="uc-row  last                           header-row   backgroundCover 
+                        
+                                                        " data-id="1" style="  background:rgb(0, 0, 0); ">
+<div class="row-container ">
+<div class="row headerRow " style="">
+<div class="column col-sm-12 " dataColumn-id="1" style="      ">
+<div class="column-container " style="">
+<div class="module-container  align-center ModuleNavigation
+                         first   last                         ">
+<div class="  module ModuleNavigation " dataModule-id="1">
+<input type="hidden" class="standard-navigation">
+<style>
+    		#navigation-1        > .standard-view > .navigation > .page > .page-children {
+        background: rgba(241, 241, 241, 0);
+    }
+
+    #navigation-1      > .standard-view > .navigation > .page > .page-children > .page > ul {
+        background: rgba(241, 241, 241, 0);
+    }
+
+    
+        
+            #navigation-1 .navigation > li.has-childes.page > ul a{
+        padding: 0 15px;
+    }
+            #navigation-1     > div > ul li:hover > ul {
+        display: block;
+    }
+    
+    
+    	#navigation-1 .page a {
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        font-weight: 700;
+        letter-spacing: 0px;
+        text-transform: lowercase;
+    }
+
+    #navigation-1     > div > ul > li.page:not(:last-child) {
+                     margin-bottom: 20px;
+            }
+
+    #navigation-1     > div > ul > li:first-child:nth-last-child(1) {
+                    margin-bottom: 40px;
+            }
+
+    #navigation-1 li.page > a:hover {
+        color: rgb(234, 234, 234)     !important;
+    }
+
+    #navigation-1 li.page.active > a {
+        color: rgb(234, 234, 234);
+    }
+
+    #navigation-1 li.page.active > a:hover {
+        color: #f1f1f1 !important;
+    }
+
+    #navigation-1 li.page > ul.page-children  li.page  a {
+        color: rgb(255, 255, 255);
+    }
+
+    #navigation-1 li.page > ul.page-children > li.page a:hover,
+    #navigation-1 li.page > ul.page-children > li.page > ul.page-children > li.page a:hover {
+        color: #959595     !important;
+    }
+
+    #navigation-1 li.page > ul.page-children > li.page.active > a,
+    #navigation-1 li.page > ul.page-children > li.page > ul.page-children > li.page.active > a {
+        color: #353535;
+    }
+
+    #navigation-1 li.page > ul.page-children > li.page.active > a:hover,
+    #navigation-1 li.page > ul.page-children > li.page > ul.page-children > li.page.active > a:hover {
+        color: #959595 !important;
+    }
+
+    #navigation-1 li.page > ul.page-children:before,
+    #navigation-1 li.page > ul.page-children > li.has-childes > .page-children.pagesArrows > li:first-child:before {
+        color: rgba(241, 241, 241, 0);
+    }
+
+            #navigation-1 li.page > ul.page-children > li.page > a {
+                        color: rgb(255, 255, 255);
+                               font-size: 16px;
+    
+
+
+
+    }
+
+    
+        #navigation-1 li.page > ul.page-children > li.page > a {
+        font-weight: 400;
+    }
+
+    
+        #navigation-1 li.page ul.page-children .page {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    #navigation-1 li.page ul.page-children .page:last-child {
+        padding-bottom: 5px;
+    }
+
+    #navigation-1 li.has-childes.page > a > .uci-dropdown-arrow-down {
+        font-size: 11px;
+    }
+
+    #navigation-1 li.has-childes.page > .page-children.pagesArrows > .has-childes > a > .uci-dropdown-arrow-down {
+        font-size: 9px;
+    }
+
+    #navigation-1 li.has-childes.page > .page-children li > a,
+    #navigation-1 li.has-childes.page > .page-children li {
+        text-align: center;
+    }
+
+        
+         #navigation-1 li.page {
+        text-align: center ;;
+    }
+    </style>
+<div id="navigation-1" data-nav-sub-page-scollapsible="1" class="navigation-inner
+         in-canvas         
+        vertical standard">
+<div class="standard-view  scrolling-wrapper-on-device ">
+<ul class="navigation" style="font-family: &#039;&#039;Open Sans&#039;&#039;;">
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua" data-page-type="pageBlank">
+<span class="title">
+Главная
+</span>
+</a>
+</li>
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/меценатство-1" data-page-type="pageBlank">
+<span class="title">
+Меценатство
+</span>
+</a>
+<ul data-id="child-pages-542" class=" center    page-children   subPageCollapse   subPageCollapse ">
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/меценатство-1/new-page-59" data-page-type="pageBlank">
+<span class="title">
+Перерабатывать
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-22" data-page-type="pageEcommerceProducts">
+<span class="title">
+Активированные
+</span>
+</a>
+ <ul data-id="child-pages-533" class=" center    page-children   subPageCollapse   subPageCollapse ">
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-22/new-page-58" data-page-type="pageEcommerceProducts">
+<span class="title">
+Apple iPhone
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class=" has-childes  page   heading-page   show" data-anchor="">
+<a class="nav-item" href="javascript:void(0)" data-page-type="pageHeading">
+<span class="title">
+Каталог товаров
+</span>
+</a>
+<ul data-id="child-pages-109" class=" center    page-children   subPageCollapse   subPageCollapse ">
+<li class=" has-childes  page   heading-page   show" data-anchor="">
+<a class="nav-item" href="javascript:void(0)" data-page-type="pageHeading">
+<span class="title">
+Аксессуары
+</span>
+</a>
+<ul data-id="child-pages-529" class=" center    page-children   subPageCollapse   subPageCollapse ">
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-20/new-page-93" data-page-type="pageEcommerceProducts">
+<span class="title">
+Чехлы
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class=" has-childes  page   heading-page   show" data-anchor="">
+<a class="nav-item" href="javascript:void(0)" data-page-type="pageHeading">
+<span class="title">
+Электроника
+</span>
+</a>
+<ul data-id="child-pages-530" class=" center    page-children   subPageCollapse   subPageCollapse ">
+ <li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-13/new-page-14" data-page-type="pageEcommerceProducts">
+<span class="title">
+Apple MacBook
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-13/new-page-76" data-page-type="pageEcommerceProducts">
+<span class="title">
+Apple iPad
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-1" data-page-type="pageBlank">
+<span class="title">
+Women
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-5" data-page-type="pageBlank">
+<span class="title">
+MEN
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-and-main-rows  " style=" ">
+<div class="header-rows  " style="  margin-bottom:0vh;  background:rgba(255, 251, 251, 0);">
+<div class="header-row-wrapper">
+<div class="uc-row-wrapper ">
+<div class="uc-row                             header-row  
+                        
+                                                        header-row-fix
+                                " data-id="12" style="  margin-bottom:0vh;   background:rgb(0, 128, 128); ">
+<div class="row-container  container ">
+<div class="row headerRow " style="">
+ <div class="column col-xs-2 " dataColumn-id="657" style="  padding:4px 0px;     ">
+<div class="column-container " style="">
+<div class="module-container   only-mobile   align-right ModuleLogo
+                         first   last                         " style=" padding-right:0px;padding-left:0px;;  ">
+<div class="  module ModuleLogo " dataModule-id="835" style="display:block;max-width:140px;">
+<a href='https://forme.in.ua'>
+<img data-logo-element data-src="https://static.ucraft.net/fs/publishedFiles/fome/images/small-logo.jpg?v=1572179135" class='lazy' alt="Forme" />
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="column col-xs-1 " dataColumn-id="1556" style="  padding:4px 0px;     ">
+<div class="column-container vertical-center" style="">
+<div class="module-container   only-mobile   align-center ModuleEcommerceCart
+                         first   last                         " style=" padding-right:0px;padding-left:0px;;  ">
+<div class="  module ModuleEcommerceCart " dataModule-id="30">
+<script type="5d3d16633a309b6f162ffd49-text/javascript">
+    var hasActiveStore = 1;
+    var activeStoreErrorMeesage = 'Вы еще не активировали функцию интернет-магазина.';
+    var activeStoreErrorMeesageOk = 'Ок';
+</script>
+<div style="display: none;">
+<div id="uc-ecommerce-cart">
+</div>
+</div>
+<script type="5d3d16633a309b6f162ffd49-text/javascript">
+        ecwidMessages = {
+            "PaymentDetails.enter_email": "Enter your e-mail"
+        };
+
+                        var ecwid_sso_profile = "";
+        
+    </script>
+<script type="5d3d16633a309b6f162ffd49-text/javascript" src="https://app.store.ucraft.net/script.js?17988158&lang=ru" charset="utf-8"></script>
+<script type="5d3d16633a309b6f162ffd49-text/javascript">
+        xMinicart("id=uc-ecommerce-cart", "layout=attachToCategories");
+    </script>
+<script type="5d3d16633a309b6f162ffd49-text/javascript">
+    var ecommercePriceFormat = {"currency":"UAH","currencyPrefix":"","currencySuffix":"\u0433\u0440\u043d.","currencyGroupSeparator":" ","currencyDecimalSeparator":".","currencyPrecision":2,"currencyTruncateZeroFractional":false,"currencyRate":0.03975352812562115,"weightUnit":"KILOGRAM","weightGroupSeparator":" ","weightDecimalSeparator":".","weightTruncateZeroFractional":false,"timeFormat":"hh:mm a","dateFormat":"MMM d, yyyy","timezone":"Europe\/Zaporozhye","dimensionsUnit":"CM","orderNumberPrefix":"","orderNumberSuffix":""};</script> <div class="icon" style="width:54px;">
+<div style="width:27px;height:27px;color:#FFFFFF;fill:#FFFFFF;">
+
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 52.2 64" enable-background="new 0 0 52.2 64" xml:space="preserve">
+<path fill="#202020" d="M50,16H38.1v-4c0-6.6-5.4-12-12-12s-12,5.4-12,12v4H2.2L0,64h52.2L50,16z M18.1,12c0-4.4,3.6-8,8-8
+	s8,3.6,8,8v4h-16V12z M4.2,60L6,20h8.1v6c0,1.1,0.9,2,2,2s2-0.9,2-2v-6h16v6c0,1.1,0.9,2,2,2s2-0.9,2-2v-6h8.1L48,60H4.2z" />
+</svg>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column col-xs-8 " dataColumn-id="29" style="  padding:4px 0px;      background: transparent; ">
+<div class="column-container vertical-center" style="">
+<div class="module-container   only-mobile   align-center ModuleNavigation
+                         first   last                         " style=" padding-right:2.5px;padding-left:10px;;  ">
+<div class="  module ModuleNavigation " dataModule-id="859">
+<input type="hidden" class="standard-navigation">
+<style>
+    		#navigation-859        > .standard-view > .navigation > .page > .page-children {
+        background: #f1f1f1;
+    }
+
+    #navigation-859      > .standard-view > .navigation > .page > .page-children > .page > ul {
+        background: #f1f1f1;
+    }
+
+    
+        #navigation-859      > .standard-view > .navigation > .page > .page-children {
+        border-radius: 11px;
+    }
+
+    #navigation-859      > .standard-view > .navigation > .page > .page-children > .page > ul {
+        border-radius: 11px;
+    }
+
+            #navigation-859      > .standard-view > .navigation > .page > .page-children {
+        box-shadow: 20px 21px 9px 5px #00000000;
+        -moz-box-shadow: 20px 21px 9px 5px #00000000;
+        -webkit-box-shadow: 20px 21px 9px 5px #00000000;
+    }
+
+    
+            #navigation-859 .navigation > li.has-childes.page > ul a{
+        padding: 0 26px;
+    }
+            #navigation-859     > div > ul li:hover > ul {
+        display: block;
+    }
+    
+    
+    	#navigation-859 .page a {
+        color: #353535;
+        font-size: 17px;
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        text-transform: capitalize;
+    }
+
+    #navigation-859     > div > ul > li.page:not(:last-child) {
+                     margin-right: 13px;
+            }
+
+    #navigation-859     > div > ul > li:first-child:nth-last-child(1) {
+            }
+
+    #navigation-859 li.page > a:hover {
+        color: rgb(255, 255, 255)     !important;
+    }
+
+    #navigation-859 li.page.active > a {
+        color: #353535;
+    }
+
+    #navigation-859 li.page.active > a:hover {
+        color: #959595 !important;
+    }
+
+    #navigation-859 li.page > ul.page-children  li.page  a {
+        color: #353535;
+    }
+
+    #navigation-859 li.page > ul.page-children > li.page a:hover,
+    #navigation-859 li.page > ul.page-children > li.page > ul.page-children > li.page a:hover {
+        color: #959595     !important;
+    }
+
+    #navigation-859 li.page > ul.page-children > li.page.active > a,
+    #navigation-859 li.page > ul.page-children > li.page > ul.page-children > li.page.active > a {
+        color: #353535;
+    }
+
+    #navigation-859 li.page > ul.page-children > li.page.active > a:hover,
+    #navigation-859 li.page > ul.page-children > li.page > ul.page-children > li.page.active > a:hover {
+        color: #959595 !important;
+    }
+
+    #navigation-859 li.page > ul.page-children:before,
+    #navigation-859 li.page > ul.page-children > li.has-childes > .page-children.pagesArrows > li:first-child:before {
+        color: #f1f1f1;
+    }
+
+            #navigation-859 li.page > ul.page-children > li.page > a {
+                        color: #353535;
+                               font-size: 15px;
+    
+
+
+
+    }
+
+    
+        #navigation-859 li.page > ul.page-children > li.page > a {
+        font-weight: 500;
+    }
+
+    
+        #navigation-859 li.page ul.page-children .page {
+        padding-top: 9px;
+        padding-bottom: 9px;
+    }
+
+    #navigation-859 li.page ul.page-children .page:last-child {
+        padding-bottom: 9px;
+    }
+
+    #navigation-859 li.has-childes.page > a > .uci-dropdown-arrow-down {
+        font-size: 9.5px;
+    }
+
+    #navigation-859 li.has-childes.page > .page-children.pagesArrows > .has-childes > a > .uci-dropdown-arrow-down {
+        font-size: 8.5px;
+    }
+
+    #navigation-859 li.has-childes.page > .page-children li > a,
+    #navigation-859 li.has-childes.page > .page-children li {
+        text-align: center;
+    }
+
+        
+     </style>
+<div id="navigation-859" data-nav-sub-page-scollapsible="0" class="navigation-inner
+                
+        horizontal standard">
+<div class="off-canvas-button icon" data-selector="off-canvas-859" style="width:25px;height:25px;color:rgb(0, 0, 0);fill:rgb(0, 0, 0);">
+<svg viewbox="0 0 100.00000762939453 75.000244140625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.2716659928598795)"><g><g><path clip-rule="evenodd" d="M81.602,44.102h-66.84c-3.256,0-5.898,2.64-5.898,5.898    s2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898S84.858,44.102,81.602,44.102z M81.602,67.693h-66.84    c-3.256,0-5.898,2.64-5.898,5.898c0,3.258,2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898    C87.5,70.333,84.858,67.693,81.602,67.693z M14.763,32.307h66.84c3.256,0,5.898-2.64,5.898-5.898c0-3.258-2.642-5.898-5.898-5.898    h-66.84c-3.256,0-5.898,2.64-5.898,5.898C8.865,29.667,11.507,32.307,14.763,32.307z" transform="translate(-8.864001274108887,-20.511001586914062)"></path></g></g></g></svg>
+</div>
+<div class="standard-view  scrolling-wrapper-on-device ">
+<ul class="navigation" style="font-family: &#039;Ubuntu&#039;;">
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua" data-page-type="pageBlank">
+<span class="title">
+Главная
+</span>
+</a>
+</li>
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-22" data-page-type="pageEcommerceProducts">
+<div class="uci-dropdown-arrow-down "></div>
+<span class="title">
+Активированные
+</span>
+</a>
+<ul data-id="child-pages-533" class=" center    pagesArrows   page-children   subPageCollapse  ">
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-22/new-page-58" data-page-type="pageEcommerceProducts">
+<span class="title">
+Apple iPhone
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class=" has-childes  page   heading-page   show" data-anchor="">
+<a class="nav-item" href="javascript:void(0)" data-page-type="pageHeading">
+<div class="uci-dropdown-arrow-down "></div>
+<span class="title">
+Каталог товаров
+</span>
+</a>
+<ul data-id="child-pages-109" class=" center    pagesArrows   page-children   subPageCollapse  ">
+<li class=" has-childes  page   heading-page   show" data-anchor="">
+<a class="nav-item" href="javascript:void(0)" data-page-type="pageHeading">
+<div class="uci-dropdown-arrow-down "></div>
+<span class="title">
+Аксессуары
+</span>
+</a>
+<ul data-id="child-pages-529" class=" center    pagesArrows   page-children   subPageCollapse  ">
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-20/new-page-93" data-page-type="pageEcommerceProducts">
+<span class="title">
+Чехлы
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li class=" has-childes  page   heading-page   show" data-anchor="">
+<a class="nav-item" href="javascript:void(0)" data-page-type="pageHeading">
+<div class="uci-dropdown-arrow-down "></div>
+<span class="title">
+Электроника
+</span>
+</a>
+<ul data-id="child-pages-530" class=" center    pagesArrows   page-children   subPageCollapse  ">
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-13/new-page-14" data-page-type="pageEcommerceProducts">
+<span class="title">
+Apple MacBook
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-13/new-page-76" data-page-type="pageEcommerceProducts">
+<span class="title">
+Apple iPad
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-1" data-page-type="pageBlank">
+<span class="title">
+Women
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-5" data-page-type="pageBlank">
+<span class="title">
+MEN
+</span>
+</a>
+</li>
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/меценатство-1" data-page-type="pageBlank">
+<div class="uci-dropdown-arrow-down "></div>
+<span class="title">
+Меценатство
+</span>
+</a>
+<ul data-id="child-pages-542" class=" center    pagesArrows   page-children   subPageCollapse  ">
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/меценатство-1/new-page-59" data-page-type="pageBlank">
+<div class=""></div>
+<span class="title">
+Перерабатывать
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column col-xs-1 " dataColumn-id="1784" style="  padding:4px 0px;     ">
+<div class="column-container vertical-center" style="">
+<div class="module-container  align-center ModuleSearch
+                         first   last                         " style=" padding-right:0px;padding-left:0px;;  ">
+<div class="  module ModuleSearch " dataModule-id="1830">
+<style>
+                .ModuleSearch[datamodule-id="1830"] .search-wrapper .input-holder .search-icon {
+            fill: rgb(255, 255, 255);
+        }
+
+                        .ModuleSearch[datamodule-id="1830"] .search-wrapper.active .result-item .hit-list-item .item-list-cube p {
+            background-color: #FFFFFF;
+        }
+
+        
+            .ModuleSearch[datamodule-id="1830"] .search-wrapper .input-holder .search-icon svg,
+        .ModuleSearch.algolia-container .search-wrapper[datamodule-id="1830"].active .input-holder .search-icon svg {
+            width: 29px;
+            fill: rgb(255, 255, 255);
+            /*max-width:100px;*/
+        }
+
+        .ModuleSearch[datamodule-id="1830"] .search-wrapper .input-holder {
+            width: 29px;
+        }
+
+        .ModuleSearch[datamodule-id="1830"] .search-wrapper.active .input-holder .search-input {
+            width: calc(100% - 29px - 12px);
+        }
+
+        @media (max-width: 500px),(orientation: landscape) and (max-width: 750px) {
+            .ModuleSearch[datamodule-id="1830"] .search-wrapper.active .input-holder .search-input,
+            .ModuleSearch.algolia-container .search-wrapper[datamodule-id="1830"].active .input-holder .search-input {
+                width: calc(100% - 29px - 50px);
+            }
+        }
+
+                    .ModuleSearch[datamodule-id="1830"] .search-wrapper .input-holder .search-icon path {
+            fill: rgb(255, 255, 255);
+        }
+            </style>
+<div data-component='search' data-attrs='{"params": {&quot;id&quot;:1830,&quot;type&quot;:&quot;ModuleSearch&quot;,&quot;componentName&quot;:&quot;search&quot;,&quot;ordering&quot;:1,&quot;searchIconSize&quot;:&quot;29&quot;,&quot;borderRadius&quot;:&quot;10&quot;,&quot;svgIcon&quot;:&quot;&lt;svg viewbox=\&quot;0 0 99.96583557128906 100.00048828125\&quot; version=\&quot;1.1\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot; xmlns:xlink=\&quot;http:\/\/www.w3.org\/1999\/xlink\&quot;&gt;&lt;g transform=\&quot;scale(1.1107314665668744)\&quot;&gt;&lt;path d=\&quot;M93.5,88.622L65.954,61.078c4.279-5.763,6.842-12.881,6.842-20.61c0-19.133-15.511-34.648-34.648-34.648  C19.013,5.82,3.5,21.335,3.5,40.468c0,19.135,15.513,34.648,34.648,34.648c7.715,0,14.813-2.55,20.572-6.813l27.55,27.548  L93.5,88.622z M38.148,67.822c-15.083,0-27.354-12.27-27.354-27.354c0-15.082,12.27-27.354,27.354-27.354  s27.354,12.271,27.354,27.354C65.501,55.552,53.231,67.822,38.148,67.822\&quot; transform=\&quot;translate(-3.5,-5.819999694824219)\&quot;&gt;&lt;\/path&gt;&lt;\/g&gt;&lt;\/svg&gt;&quot;,&quot;showTitle&quot;:&quot;1&quot;,&quot;titleSize&quot;:&quot;14&quot;,&quot;descriptionSize&quot;:&quot;13&quot;,&quot;category&quot;:&quot;12&quot;,&quot;resultsFoundText&quot;:&quot;13&quot;,&quot;titleAlignment&quot;:&quot;center&quot;,&quot;searchResultLayout&quot;:&quot;grid&quot;,&quot;searchResultsView&quot;:&quot;inPopup&quot;,&quot;enableAlwaysOpened&quot;:&quot;1&quot;,&quot;aspectRatio&quot;:&quot;100%&quot;,&quot;searchIconColor&quot;:&quot;rgb(255, 255, 255)&quot;,&quot;titleTextColor&quot;:&quot;#454545&quot;,&quot;titleBackgroundColor&quot;:&quot;#FFFFFF&quot;,&quot;descriptionTextColor&quot;:&quot;#454545&quot;,&quot;descriptionBackgroundColor&quot;:&quot;#FFFFFF&quot;,&quot;searchPageBackgroundColor&quot;:&quot;#FFFFFF&quot;,&quot;resultsFoundTextColor&quot;:&quot;#A4A4A4&quot;,&quot;categoryColor&quot;:&quot;#A4A4A4&quot;,&quot;categoryBackgroundColor&quot;:&quot;#F5F6F7&quot;,&quot;enableArticles&quot;:1,&quot;enablePages&quot;:1,&quot;enableEcommerce&quot;:1,&quot;itemsPerLoading&quot;:&quot;30&quot;,&quot;buttonSearchText&quot;:&quot;\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u0435\u0449\u0451&quot;,&quot;target&quot;:&quot;0&quot;,&quot;buttonSearchStyle&quot;:&quot;buttons1549375871707&quot;,&quot;btnSearchTextColor&quot;:&quot;&quot;,&quot;btnSearchBgColor&quot;:&quot;&quot;,&quot;link&quot;:&quot;&quot;,&quot;linkType&quot;:&quot;2&quot;,&quot;padding&quot;:&quot;0 0 0 0&quot;,&quot;algoliaApplicationId&quot;:&quot;Q7K8RX4CKO&quot;,&quot;algoliaSecretKey&quot;:&quot;27ee15e9d7489d24ce7a0cc8dd0ae04f&quot;,&quot;imagesPath&quot;:&quot;https:\/\/static.ucraft.net\/fs\/publishedFiles\/fome\/images\/&quot;,&quot;ecommerceCurrency&quot;:&quot;UAH&quot;,&quot;indicesList&quot;:[&quot;articles&quot;,&quot;page&quot;,&quot;ecommerceproduct&quot;]}}'>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row" style="bottom:-0vh;">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="header-row-wrapper">
+<div class="uc-row-wrapper ">
+<div class="uc-row                             header-row  
+                        
+                                                        header-row-fix
+                                " data-id="1146" style="  background:rgb(199, 202, 171); ">
+<div class="row-container  container ">
+<div class="row headerRow " style="">
+<div class="column col-xs-12 " dataColumn-id="1736" style="  padding:7px 0px;     ">
+<div class="column-container vertical-top" style=" margin-top:10px; ">
+<div class="module-container   only-mobile   align-center ModuleBreadcrumb
+                         first   last                         ">
+<div class="  module ModuleBreadcrumb " dataModule-id="1792">
+<style>
+    .module-container .module.ModuleBreadcrumb #breadcrumb-1792  li a {
+        color: rgb(0, 0, 0);
+    }
+
+    .module-container .module.ModuleBreadcrumb #breadcrumb-1792  .breadcrub-label {
+        font-size: 12px;
+                    font-family: 'Ubuntu';
+                letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+
+    .module-container .module.ModuleBreadcrumb #breadcrumb-1792  .breadcrub-separator {
+        margin: 0px 26px 0px 26px;
+        font-size: 12px;
+        color: rgb(0, 0, 0);
+    }
+
+    .module-container .module.ModuleBreadcrumb #breadcrumb-1792  li a:hover {
+        color: rgb(255, 255, 255)    !important;
+    }
+</style>
+<ul id="breadcrumb-1792">
+<li class="breadcrub-label"><a href="https://forme.in.ua/new-page-77">Компания</a></li>
+<li class="breadcrub-separator">
+|
+</li>
+<li class="breadcrub-label"><a href="https://forme.in.ua/new-page-77/new-page-88">Кто мы</a></li>
+<li class="breadcrub-separator">
+|
+</li>
+<li class="breadcrub-label"><a href="https://forme.in.ua/new-page-77/new-page-88/new-page-89">Чем мы живем</a></li>
+<li class="breadcrub-separator">
+|
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="main-rows">
+<div class="uc-row-wrapper ">
+<div class="uc-row    first                           
+                        
+                                                        " data-id="1232" style=" ">
+<div class="row-container  container ">
+<div class="row mainRow " style="">
+<div class="column col-sm-12 " dataColumn-id="1881" style="      ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleSpace
+                         first   last                         ">
+<div class="  module ModuleSpace " dataModule-id="1953">
+<div class="space-container">
+<div class="space-inner" style="height: 10px;">
+</div>
+</div>
+<style>
+    .ModuleSpace[datamodule-id="1953"] .space-container {
+                    border-radius: 0 0 0 0;
+                            }
+
+    .ModuleSpace[datamodule-id="1953"]:hover .space-container{
+                    border-radius: 0 0 0 0;
+                        }
+</style>
+<style>
+        .ModuleSpace[datamodule-id="1953"] .uc-row .column:first-child {
+            border-bottom-left-radius: 0;
+            border-top-left-radius: 0;
+        }
+
+        .ModuleSpace[datamodule-id="1953"] .uc-row .column:last-child {
+            border-bottom-right-radius: 0;
+            border-top-right-radius: 0;
+        }
+    </style>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+<div class="uc-row-wrapper ">
+<div class="uc-row                             
+                        
+                                                        " data-id="1241" data-effect="staticParallax" style="  margin-bottom:4.8vh;   background:; ">
+<div class="row-container  container ">
+<div class="row mainRow " style="">
+<div class="column col-sm-12 " dataColumn-id="1893" style="  padding:31.36vh 0vh;      background: transparent; ">
+<div class="column-container vertical-center" style="">
+<div class="module-container  align-center ModuleTitle
+                         first   last                         ">
+<div class="  module ModuleTitle " dataModule-id="1991">
+<div class="uc-content">
+<h3 style="color:rgb(251, 249, 249);">.</h3>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row" style="bottom:-4.8vh;">
+<div class="margin-controller"></div>
+</div>
+<div class="bg-image   lazy " data-bg="url('https://static.ucraft.net/fs/publishedFiles/fome/images/r1241-shutterstock769766660-6.jpg')" data-webp="1" style="
+                             
+                                                                                               opacity: 0.95;
+                                                                                               background-position: 8.13% 7.317%;
+                                                                  ">
+</div>
+</div>
+</div>
+ <div class="uc-row-wrapper ">
+<div class="uc-row                             
+                        
+                                                        " data-id="1246" style="  margin-bottom:0vh;  ">
+<div class="row-container  container ">
+<div class="row mainRow " style="">
+<div class="column col-sm-12 " dataColumn-id="1904" style="  padding:0vh 0vh;     ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleTitle
+                         first   last                         ">
+<div class="  module ModuleTitle " dataModule-id="2029">
+<div class="uc-content">
+<h3><span class="font-7em"><span style="font-family:montserrat;">Наши основные ценности</span></span><br><span class="font-5em"><span style="color:rgb(246, 149, 3);"><span style="font-family:montserrat;"><u>F</u></span></span><span style="font-family:montserrat;">orme.in.ua рассказал, о своих основных ценностях, которые, скорее образ жизни, чем просто слова.</span></span></h3>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row" style="bottom:-0vh;">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+<div class="uc-row-wrapper ">
+<div class="uc-row                             
+                        
+                                                        " data-id="1243" style="  margin-bottom:0vh;  ">
+<div class="row-container  container ">
+<div class="row mainRow " style="">
+<div class="column col-sm-4 " dataColumn-id="1895" style="  padding:1.76vh 0vh;      background: #FFFFFF; ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:0vh; ">
+<div class="  module ModuleIcon " dataModule-id="1993">
+<div class="icon" style="width:70px;height:70px; color:rgb(206, 73, 3); fill:rgb(206, 73, 3);">
+<svg viewbox="0 0 100 63.600006103515625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.0001668063841824)"><path d="M80.039,41.604c-2.605,0-5.089,0.516-7.374,1.427l-5.844-12.122l1.318-3.092l2.033,0.232  c0.184,0.036,0.367,0.055,0.546,0.055c1.584,0,2.873-1.468,2.873-3.052S72.303,22,70.719,22c-0.018,0-0.035,0-0.053,0  c-0.07,0-0.142,0.181-0.212,0.188l-12.647,1.544c-0.716,0.082-1.256,0.733-1.256,1.454s0.541,1.349,1.257,1.431l7.393,0.746  L64.461,29H32.405c0.801-3,1.426-4.194,1.75-5.063C34.876,22.009,36.409,21,38.842,21h4.231c0.783,0,1.418-0.717,1.418-1.5  S43.856,18,43.073,18h-4.231c-3.601,0-6.208,1.934-7.343,4.97c-0.863,2.311-3.71,10.842-6.505,19.156  c-1.594-0.41-3.254-0.586-4.975-0.586c-11.022,0-19.99,9-19.99,20.022c0,11.021,8.968,20.008,19.99,20.008s19.99-8.961,19.99-19.984  c0-8.305-5.094-15.435-12.32-18.449c0.605-1.801,1.212-3.599,1.801-5.344L46.9,57.694c-0.806,1.092-1.288,2.438-1.288,3.899  c0,3.637,2.724,6.584,6.36,6.584c0.428,0,1.027-0.045,1.027-0.121v0.002l7.6-1.02c2.379,8.381,10.194,14.545,19.327,14.545  c11.023,0,20.047-8.967,20.047-19.99C99.974,50.572,91.062,41.604,80.039,41.604z M37.174,61.594  c0,9.459-7.696,17.156-17.155,17.156S2.865,71.053,2.865,61.594S10.561,44.44,20.02,44.44c1.405,0,2.763,0.188,4.071,0.508  c-2.736,8.153-5.204,15.562-5.416,16.198c-0.248,0.742,0.154,1.545,0.897,1.793c0.148,0.049,0.299,0.072,0.448,0.072  c0.594,0,1.147-0.375,1.345-0.969c0.053-0.158,2.595-7.791,5.419-16.208C32.888,48.466,37.174,54.537,37.174,61.594z M70.113,44.267  c-4.473,2.572-7.854,6.817-9.291,11.881l-4.498-0.621l9.021-21.154L70.113,44.267z M63.646,56.539  c1.271-4.115,4.062-7.558,7.702-9.709l5.562,11.54L63.646,56.539z M31.438,32h31.814l-9.84,23.103  C53.018,55.028,52.611,55,52.195,55c-1.147,0-2.226,0.3-3.165,0.817L30.541,34.661L31.438,32z M80.039,78.75  c-7.7,0-14.229-5.102-16.393-12.1l16.629-2.297c1.421-0.119,2.535-1.309,2.535-2.76c0-1.447-1.11-2.633-2.527-2.758L73.9,45.595  c1.909-0.735,3.974-1.155,6.139-1.155c9.459,0,17.154,7.695,17.154,17.154S89.498,78.75,80.039,78.75z" transform="translate(-0.029003143310546875,-18)"></path></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style=" padding-right:0px;padding-left:0px;;   padding-bottom:2.0533880903491vh; ">
+<div class="  module ModuleTitle " dataModule-id="1994" style="display:block;max-width:400px;">
+<div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="line-height:1;font-family:montserrat;">Доставлять эмоции и комфорт.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleParagraph
+                                                 " style=" padding-right:10px;padding-left:10px;;   padding-bottom:3.52vh; ">
+<div class="  module ModuleParagraph " dataModule-id="1995" style="display:block;max-width:520px;">
+<div class="uc-content ">
+<p><span style="font-family:lato;">Доставка выполняется абсолютно бесплатно в любой населенный пункт Украины. Прямо к двери клиенту. Мы беспокоимся о том, чтобы покупка отнимала у вас как можно меньше времени и сил.</span></p>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="1996">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="column col-sm-4 " dataColumn-id="1896" style="  padding:1.76vh 0vh;      background: rgba(225, 218, 213, 0.55); ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:0vh; ">
+<div class="  module ModuleIcon " dataModule-id="1997">
+<div class="icon" style="width:70px;height:70px; color:rgb(206, 73, 3); fill:rgb(206, 73, 3);">
+<svg viewbox="0 0 67.05882263183594 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.1764705882352942)"><path d="M78.5,42.5l-11.7-35H33.2l-11.7,35h26v45H40v5h20v-5h-7.5v-45H78.5z M63.2,12.5l8.3,25H28.5l8.3-25H63.2z" transform="translate(-21.5,-7.5)"></path></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style="  padding-bottom:2.4479804161567vh; ">
+<div class="  module ModuleTitle " dataModule-id="1998">
+ <div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="font-family:montserrat;">Создавать ценность при минимальных затратах.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleParagraph
+                                                 " style=" padding-right:10px;padding-left:10px;;   padding-bottom:3.52vh; ">
+<div class="  module ModuleParagraph " dataModule-id="1999" style="display:block;max-width:520px;">
+<div class="uc-content ">
+<p style="color:rgb(128, 128, 128);"><span class="font-11em"><span style="font-family:lato;">Снизить цену и дать за счет этого, как можно больше.</span></span></p>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="2000">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="column col-sm-4 " dataColumn-id="1897" style="  padding:1.76vh 0vh;      background: rgba(183, 167, 157, 0.55); ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:0vh; ">
+<div class="  module ModuleIcon " dataModule-id="2001">
+<div class="icon" style="width:70px;height:70px; color:rgb(206, 73, 3); fill:rgb(206, 73, 3);">
+<svg viewbox="0 0 100.00000762939453 89.2589111328125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.1111111111111112)"><g><path d="M5,9.833v3.721h43.136v18.368c-4.834,0.881-8.515,5.116-8.515,10.203v1.86h20.751v-1.86c0-5.087-3.681-9.323-8.516-10.203   V13.554H95V9.833H5z M56.388,40.265H43.606c0.806-2.769,3.365-4.798,6.39-4.798C53.021,35.467,55.581,37.496,56.388,40.265z" transform="translate(-5,-9.833000183105469)"></path><path d="M81.513,76.213H65.249v10.232H52.222V69h11.421v-3.721H36.354V69h12.146v17.445h-12.31V76.213H19.93v10.232H5v3.721h90   v-3.721H81.513V76.213z M68.97,79.934h8.822v6.512H68.97V79.934z M23.65,79.934h8.82v6.512h-8.82V79.934z" transform="translate(-5,-9.833000183105469)"></path></g></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style="  padding-bottom:2.4479804161567vh; ">
+<div class="  module ModuleTitle " dataModule-id="2002">
+<div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="font-family:montserrat;">Создать условия, в которых можно забыть, что вещь со временем нужно будет куда-то девать.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleParagraph
+                                                 " style=" padding-right:10px;padding-left:10px;;   padding-bottom:3.52vh; ">
+<div class="  module ModuleParagraph " dataModule-id="2003" style="display:block;max-width:520px;">
+<div class="uc-content ">
+<p><span style="font-family:lato;">Мы с радостью купим ваши покупки себе обратно, для того, чтобы они не были выброшены, или не складировались у Вас дома. Тем самым, занимая лишнее место, которое можно обустроить куда более новыми покупками.</span></p>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="2004">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row" style="bottom:-0vh;">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+<div class="uc-row-wrapper ">
+<div class="uc-row                             
+                        
+                                                        " data-id="1244" style="  margin-bottom:0vh;  ">
+<div class="row-container  container ">
+<div class="row mainRow " style="">
+<div class="column col-sm-4 " dataColumn-id="1898" style="  padding:1.76vh 0vh;      background: #FFFFFF; ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:5.1334702258727vh; ">
+<div class="  module ModuleIcon " dataModule-id="2005">
+<div class="icon" style="width:70px;height:70px; color:rgb(206, 73, 3); fill:rgb(206, 73, 3);">
+<svg viewbox="0 0 100 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(0.9996668590667417)"><g><path d="M100,32.746c0-0.067-0.009-0.133-0.014-0.199c-0.004-0.062-0.004-0.126-0.013-0.188c-0.009-0.063-0.024-0.125-0.037-0.187   c-0.013-0.065-0.022-0.13-0.039-0.194c-0.016-0.058-0.039-0.114-0.059-0.171c-0.021-0.064-0.04-0.131-0.065-0.194   c-0.024-0.057-0.056-0.11-0.083-0.167c-0.028-0.059-0.054-0.12-0.087-0.177c-0.033-0.057-0.072-0.109-0.109-0.163   C99.46,31.055,99.429,31,99.39,30.95c-0.04-0.053-0.088-0.102-0.132-0.153c-0.041-0.045-0.077-0.094-0.121-0.138   c-0.046-0.045-0.098-0.086-0.146-0.129c-0.049-0.042-0.094-0.087-0.146-0.127c-0.103-0.08-0.212-0.152-0.326-0.219L51.374,2.966   c-0.919-0.531-2.052-0.529-2.97,0.004L1.584,30.179c0,0-0.001,0-0.001,0.001c0,0-0.001,0-0.001,0.001l-0.009,0.005   c-0.05,0.03-0.095,0.065-0.144,0.097c-0.059,0.04-0.121,0.076-0.177,0.12c-0.053,0.04-0.1,0.086-0.149,0.13   c-0.047,0.042-0.097,0.081-0.142,0.125c-0.048,0.049-0.09,0.103-0.135,0.154c-0.039,0.045-0.081,0.089-0.118,0.135   c-0.042,0.055-0.077,0.114-0.115,0.172c-0.032,0.049-0.068,0.096-0.098,0.147c-0.033,0.058-0.059,0.119-0.089,0.18   C0.379,31.5,0.348,31.553,0.325,31.61C0.3,31.67,0.282,31.734,0.261,31.796c-0.021,0.059-0.044,0.116-0.061,0.177   c-0.017,0.064-0.027,0.131-0.04,0.197c-0.012,0.061-0.028,0.121-0.037,0.183c-0.009,0.066-0.009,0.134-0.014,0.201   c-0.004,0.062-0.013,0.122-0.013,0.185L0,67.241c-0.003,1.061,0.562,2.043,1.481,2.573l47.145,27.219   c0.458,0.266,0.97,0.397,1.48,0.397c0.129,0,0.257-0.008,0.385-0.024c0.023-0.004,0.046-0.011,0.069-0.015   c0.104-0.016,0.207-0.034,0.31-0.062c0.023-0.005,0.046-0.017,0.069-0.022c0.101-0.03,0.201-0.062,0.3-0.102   c0.028-0.013,0.055-0.028,0.083-0.041c0.088-0.04,0.177-0.08,0.263-0.129c0.002-0.002,0.004-0.003,0.006-0.004   c0.002-0.002,0.004-0.002,0.005-0.003l46.833-27.217c0.909-0.528,1.471-1.5,1.474-2.553L100,32.759c0-0.002,0-0.005,0-0.006   C100,32.75,100,32.748,100,32.746z M49.897,8.956l17.747,10.246L26.584,42.908L8.971,32.739L49.897,8.956z M47.159,89.345   L5.93,65.541l0.079-27.67l41.228,23.803L47.159,89.345z M50.2,56.542L32.509,46.329L73.57,22.623l17.556,10.136L50.2,56.542z    M93.981,65.543L53.084,89.311l0.078-27.637l40.898-23.767L93.981,65.543z" transform="translate(0.003000000026077032,-2.434999942779541)"></path><polygon points="43.817,83.419 26.114,73.198 26.147,61.316 43.851,71.537  " transform="translate(0.003000000026077032,-2.434999942779541)"></polygon></g></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style=" padding-right:0px;padding-left:0px;;   padding-bottom:2.0533880903491vh; ">
+<div class="  module ModuleTitle " dataModule-id="2006" style="display:block;max-width:400px;">
+<div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="font-family:montserrat;">Доставлять в обещанный срок.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleParagraph
+                                                 " style=" padding-right:10px;padding-left:10px;;   padding-bottom:3.52vh; ">
+<div class="  module ModuleParagraph " dataModule-id="2007" style="display:block;max-width:520px;">
+<div class="uc-content ">
+<p>Сделайте подарок себе и вашим близкив, перестав беспокоиться о не точной доставке.</p>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="2008">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="column col-sm-4 " dataColumn-id="1899" style="  padding:1.76vh 0vh;      background: rgba(225, 218, 213, 0.55); ">
+<div class="column-container vertical-top" style=" margin-top:0vh; ">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:0vh; ">
+<div class="  module ModuleIcon " dataModule-id="2009">
+<div class="icon" style="width:70px;height:70px; color:rgb(206, 73, 3); fill:rgb(206, 73, 3);">
+<svg viewbox="0 0 99.98332214355469 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.1500862968347882)"><g display="none"><g display="inline"><polygon fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="    100,38.91 100,60.91 99.93,60.98 94.4,66.52 88.86,72.05 83.33,77.58 77.8,83.12 72.26,88.65 66.73,94.19 61.19,99.72 60.92,100     39.34,100 39.06,99.72 33.52,94.19 27.99,88.65 22.45,83.12 16.92,77.59 11.39,72.05 5.85,66.52 0.32,60.98 0,60.67 0,39.17     0.32,38.85 5.86,33.32 11.39,27.78 16.93,22.25 22.46,16.71 27.99,11.18 33.53,5.65 39.06,0.11 39.17,0 61.09,0 61.19,0.11     66.73,5.64 72.26,11.18 77.8,16.71 83.33,22.24 88.86,27.78 94.4,33.31 99.93,38.85   " transform="translate(-7.763999938964844,-21.40799903869629)"></polygon><polyline fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="    0,49.6 0.31,49.92 0.32,49.92 5.85,55.45 11.39,60.99 16.92,66.52 22.46,72.06 27.99,77.59 33.52,83.12 39.06,88.66 44.59,94.19     50.13,99.73 50.4,100   " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.319" y1="38.847" x2="61.193" y2="99.721" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="5.853" y1="33.312" x2="66.727" y2="94.187" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="11.387" y1="27.779" x2="72.262" y2="88.653" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="16.921" y1="22.245" x2="77.796" y2="83.119" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.456" y1="16.71" x2="83.33" y2="77.585" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="27.99" y1="11.176" x2="88.864" y2="72.05" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="33.524" y1="5.642" x2="94.398" y2="66.516" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="39.058" y1="0.108" x2="99.933" y2="60.982" transform="translate(-7.763999938964844,-21.40799903869629)"></line><polyline fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="    50.02,0 50.13,0.11 55.66,5.64 61.2,11.18 66.73,16.71 72.27,22.25 77.8,27.78 83.33,33.31 88.87,38.85 94.4,44.38 99.93,49.91     99.94,49.92 100,49.98   " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline><polyline fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="    100,49.85 99.94,49.91 99.94,49.92 94.4,55.45 88.87,60.99 83.33,66.52 77.8,72.05 72.27,77.59 66.73,83.12 61.2,88.66     55.66,94.19 50.13,99.72 50.13,99.73 49.85,100   " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="99.933" y1="38.846" x2="39.057" y2="99.722" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="94.398" y1="33.312" x2="33.523" y2="94.188" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="88.864" y1="27.778" x2="27.989" y2="88.653" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="83.331" y1="22.244" x2="22.455" y2="83.12" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="77.796" y1="16.709" x2="16.921" y2="77.585" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="72.262" y1="11.176" x2="11.387" y2="72.051" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="66.728" y1="5.642" x2="5.853" y2="66.517" transform="translate(-7.763999938964844,-21.40799903869629)"></line><line fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="61.194" y1="0.108" x2="0.319" y2="60.983" transform="translate(-7.763999938964844,-21.40799903869629)"></line><polyline fill="#000000" stroke="#1D1D1B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="    50.23,0 50.13,0.11 44.59,5.64 39.06,11.18 33.52,16.71 27.99,22.24 22.46,27.78 16.92,33.31 11.39,38.85 5.85,44.38 0.32,49.92     0.31,49.92 0,50.23   " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline></g><polyline display="inline" fill="#000000" stroke="#45B8EA" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="   39.34,100 39.06,99.72 33.52,94.19 27.99,88.65 22.45,83.12 16.92,77.59 11.39,72.05 5.85,66.52 0.32,60.98 0,60.67  " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline><polyline display="inline" fill="#000000" stroke="#45B8EA" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="   0,39.17 0.32,38.85 5.86,33.32 11.39,27.78 16.93,22.25 22.46,16.71 27.99,11.18 33.53,5.65 39.06,0.11 39.17,0  " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline><polyline display="inline" fill="#000000" stroke="#45B8EA" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="   61.09,0 61.19,0.11 66.73,5.64 72.26,11.18 77.8,16.71 83.33,22.24 88.86,27.78 94.4,33.31 99.93,38.85 100,38.91  " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline><polyline display="inline" fill="#000000" stroke="#45B8EA" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="   100,60.91 99.93,60.98 94.4,66.52 88.86,72.05 83.33,77.58 77.8,83.12 72.26,88.65 66.73,94.19 61.19,99.72 60.92,100  " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline><polyline display="inline" fill="#000000" stroke="#45B8EA" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="   50.13,100 50.13,99.73 50.13,99.72 50.13,88.66 50.13,88.65 50.13,77.59 50.13,77.58 50.13,66.52 50.13,66.51 50.13,55.45    50.13,55.44 50.13,49.91 50.13,44.38 50.13,33.32 50.13,33.31 50.13,22.25 50.13,22.24 50.13,11.18 50.13,11.17 50.13,0.11  " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline><polyline display="inline" fill="#000000" stroke="#45B8EA" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="   100,49.91 99.94,49.91 99.93,49.91 88.87,49.91 88.86,49.91 77.8,49.91 77.79,49.91 66.73,49.91 66.72,49.91 55.66,49.91    50.13,49.91 44.6,49.92 44.59,49.92 33.53,49.92 33.52,49.92 22.46,49.92 22.45,49.92 11.39,49.92 11.38,49.92 0.32,49.92    0.31,49.92 0,49.92  " transform="translate(-7.763999938964844,-21.40799903869629)"></polyline></g><g><path fill="#000000" d="M93.898,42.659h-20.56V22.187c0-0.207-0.083-0.404-0.229-0.551c-0.147-0.146-0.346-0.228-0.553-0.228   h-0.001l-21.327,0.016c-0.206,0-0.404,0.082-0.552,0.228l-6.978,6.933c-0.031,0.03-0.059,0.063-0.083,0.098l-3.459,3.44   c-0.157,0.075-0.282,0.2-0.359,0.356l-7.037,6.997c-0.03,0.029-0.057,0.061-0.082,0.096l-3.09,3.074   c-0.015,0.013-0.03,0.027-0.043,0.043l-3.916,3.895c-0.011,0.009-0.021,0.019-0.03,0.03l-3.183,3.167   c-0.005,0.003-0.008,0.006-0.012,0.011l-3.643,3.624c-0.14,0.072-0.251,0.184-0.324,0.322l-6.925,6.896   c-0.112,0.067-0.203,0.156-0.269,0.268L7.99,64.139c-0.024,0.024-0.036,0.054-0.057,0.08c-0.023,0.03-0.05,0.058-0.069,0.091   c-0.006,0.011-0.013,0.021-0.019,0.033c-0.019,0.036-0.026,0.075-0.038,0.114c-0.011,0.037-0.026,0.073-0.032,0.112   c-0.002,0.012-0.007,0.023-0.009,0.034c0,0.001-0.001,0.001-0.001,0.003c-0.001,0.01,0.003,0.019,0.003,0.03   c-0.003,0.03,0.002,0.061,0.004,0.094c0.001,0.03-0.006,0.057-0.002,0.086c0.002,0.007,0.006,0.013,0.008,0.019   c0.002,0.014,0.005,0.026,0.008,0.04c0.009,0.035,0.026,0.065,0.04,0.098c0.002,0.005,0.004,0.01,0.006,0.015   c0.014,0.033,0.022,0.07,0.041,0.101c0.003,0.003,0.003,0.009,0.006,0.013c0.003,0.006,0.011,0.009,0.016,0.016   c0.022,0.034,0.049,0.06,0.078,0.09c0.033,0.036,0.065,0.072,0.105,0.101c0.023,0.017,0.045,0.032,0.069,0.047   c0.02,0.013,0.039,0.019,0.06,0.03c0.04,0.019,0.077,0.034,0.118,0.046c0.019,0.006,0.032,0.019,0.05,0.021l64.012,14.162   c0.057,0.012,0.113,0.019,0.17,0.019c0.176,0,0.349-0.059,0.489-0.171c0.185-0.149,0.293-0.371,0.293-0.608V65.469h20.56   c0.432,0,0.782-0.349,0.782-0.779V43.438C94.68,43.008,94.33,42.659,93.898,42.659z M26.947,47.474l2.387-2.374v9.602   c0,0.431,0.35,0.779,0.783,0.779c0.432,0,0.782-0.348,0.782-0.779V43.544l1.633-1.624v9.229c0,0.43,0.349,0.779,0.781,0.779   c0.433,0,0.783-0.349,0.783-0.779V40.349l2.267-2.253v9.311c0,0.432,0.351,0.779,0.783,0.779c0.432,0,0.783-0.348,0.783-0.779   V36.54l1.785-1.776v7.113c0,0.431,0.35,0.78,0.783,0.78c0.432,0,0.782-0.349,0.782-0.78v-8.668l2.191-2.179v6.317   c0,0.43,0.351,0.779,0.782,0.779c0.433,0,0.783-0.349,0.783-0.779v-7.888l1.839-1.828v5.262c0,0.43,0.35,0.778,0.782,0.778   c0.433,0,0.782-0.348,0.782-0.778v-6.816l2.151-2.137v3.805c0,0.431,0.35,0.78,0.782,0.78c0.433,0,0.783-0.349,0.783-0.78v-4.764   l19.621-0.015v19.91L26.947,57.75V47.474z M23.745,50.661l1.637-1.63v9.239l-1.637,0.544V50.661z M19.903,54.48l2.276-2.264v7.117   l-2.276,0.755V54.48z M16.591,57.778l1.748-1.74v4.569l-1.748,0.582V57.778z M12.687,61.665l2.338-2.328v2.373l-2.338,0.778V61.665   z M71.773,77.881L15.672,65.469h56.101V77.881z M93.115,63.911H13.35l1.565-0.521l57.767-19.173h20.433V63.911z" transform="translate(-7.763999938964844,-21.40799903869629)"></path></g></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style=" padding-right:0px;padding-left:0px;;   padding-bottom:2.4vh; ">
+<div class="  module ModuleTitle " dataModule-id="2010" style="display:block;max-width:400px;">
+<div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="font-family:montserrat;">Каждый день становиться лучше, чем вчера.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="2012">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="column col-sm-4 " dataColumn-id="1900" style="  padding:1.76vh 0vh;      background: rgba(183, 167, 157, 0.55); ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:5.1334702258727vh; ">
+<div class="  module ModuleIcon " dataModule-id="2013">
+<div class="icon" style="width:70px;height:70px; color:rgb(225, 22, 1); fill:rgb(225, 22, 1);">
+<svg viewbox="0 0 25.51666259765625 100.01666259765625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.0050251256281406)"><path fill="#000000" d="M56.877,76.414V7.506c0-4.001-3.254-7.256-7.256-7.256c-4.001,0-7.256,3.255-7.256,7.256v69.435  c-3.173,2.394-5.047,6.129-5.047,10.127c0,6.993,5.688,12.682,12.682,12.682s12.682-5.688,12.682-12.682  C62.682,82.757,60.477,78.741,56.877,76.414z M49.621,2.811c2.588,0,4.695,2.107,4.695,4.696v6.872h-2.979v2.561h2.979v7.683h-2.979  v2.561h2.979v7.683h-2.979v2.561h2.979v1.211h-9.391V7.51V7.488C44.936,4.907,47.039,2.811,49.621,2.811z" transform="translate(-37.317996978759766,-0.25)"></path></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style="  padding-bottom:2.4vh; ">
+<div class="  module ModuleTitle " dataModule-id="2014">
+<div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="font-family:montserrat;">Быть скромным и голодным к результату, как в первый день работы.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="2016">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row" style="bottom:-0vh;">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+ <div class="uc-row-wrapper ">
+<div class="uc-row    last                           
+                        
+                                                        " data-id="1245" style=" ">
+<div class="row-container  container ">
+<div class="row mainRow " style="">
+<div class="column col-sm-4 " dataColumn-id="1901" style="  padding:0vh 0vh;      background: #FFFFFF; ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:0vh; ">
+<div class="  module ModuleIcon " dataModule-id="2017">
+<div class="icon" style="width:70px;height:70px; color:rgb(136, 210, 150); fill:rgb(136, 210, 150);">
+<svg viewbox="0 0 70.85000610351562 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.1113170487356006)"><path d="M76.992,59.506c0.526,0.526,1.215,0.789,1.904,0.789c0.689,0,1.378-0.263,1.904-0.789c1.052-1.052,1.052-2.756,0-3.808  L52.693,27.592V14.191l24.299,24.299c0.526,0.526,1.215,0.789,1.904,0.789c0.689,0,1.378-0.263,1.904-0.789  c1.052-1.052,1.052-2.756,0-3.808L51.907,5.789c-0.249-0.25-0.548-0.448-0.879-0.585c-0.658-0.272-1.398-0.272-2.056,0  c-0.331,0.137-0.63,0.335-0.879,0.585L19.201,34.681c-1.052,1.052-1.052,2.756,0,3.808c1.052,1.052,2.756,1.052,3.808,0  l24.299-24.299v13.401L19.201,55.698c-1.052,1.052-1.052,2.756,0,3.808c1.052,1.052,2.756,1.052,3.808,0l24.299-24.299v13.406  L19.201,76.72c-1.052,1.052-1.052,2.756,0,3.808c1.052,1.052,2.756,1.052,3.808,0L47.307,56.23v35.954  c0,1.488,1.204,2.693,2.693,2.693s2.693-1.204,2.693-2.693V56.23l24.299,24.299c0.526,0.526,1.215,0.789,1.904,0.789  c0.689,0,1.378-0.263,1.904-0.789c1.052-1.052,1.052-2.756,0-3.808L52.693,48.614V35.207L76.992,59.506z" transform="translate(-18.14900016784668,-4.932000160217285)"></path></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style=" padding-right:0px;padding-left:0px;;   padding-bottom:0vh; ">
+<div class="  module ModuleTitle " dataModule-id="2018" style="display:block;max-width:400px;">
+<div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="font-family:montserrat;">Заботиться о дальнейшей судьде проданной вещи.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleParagraph
+                                                 " style=" padding-right:10px;padding-left:10px;;   padding-bottom:3.52vh; ">
+<div class="  module ModuleParagraph " dataModule-id="2019" style="display:block;max-width:520px;">
+<div class="uc-content ">
+<p>Взять на себя ответственность, чтобы все, что было продано на Forme.in.ua не выкинулось, и не навредило окружающей среде.</p>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="2020">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="column col-sm-4 " dataColumn-id="1902" style="  padding:0vh 0vh;      background: rgba(225, 218, 213, 0.55); ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:0vh; ">
+<div class="  module ModuleIcon " dataModule-id="2021">
+<div class="icon" style="width:70px;height:70px; color:rgb(21, 21, 21); fill:rgb(21, 21, 21);">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path d="M89.372,47.095C89.785,44.792,90,42.421,90,40C90,17.909,72.092,0,50,0C27.909,0,10,17.909,10,40     c0,2.421,0.216,4.792,0.627,7.096C4.128,52.6,0,60.816,0,70c0,16.568,13.432,30,30,30V40c-3.489,0-6.837,0.597-9.951,1.692     C20.018,41.132,20,40.568,20,40c0-16.542,13.458-30,30-30s30,13.458,30,30c0,0.568-0.018,1.132-0.049,1.692     C76.836,40.597,73.488,40,70,40v60c16.568,0,30-13.432,30-30C100,60.816,95.873,52.6,89.372,47.095z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style="  padding-bottom:0vh; ">
+<div class="  module ModuleTitle " dataModule-id="2022">
+<div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="font-family:montserrat;">Быть на одной волне с потребителем.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleParagraph
+                                                 " style=" padding-right:10px;padding-left:10px;;   padding-bottom:3.52vh; ">
+<div class="  module ModuleParagraph " dataModule-id="2023" style="display:block;max-width:520px;">
+<div class="uc-content ">
+<p style="color:rgb(128, 128, 128);">Д<span class="font-11em"><span style="font-family:lato;">авать то, что давно хотелось получить от покупки. Ценность, качество, уверенность, доверие, что это делается для меня, а не для кого-то другого.</span></span></p>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="2024">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="column col-sm-4 " dataColumn-id="1903" style="  padding:0vh 0vh;      background: rgba(183, 167, 157, 0.55); ">
+<div class="column-container vertical-top" style="">
+<div class="module-container  align-center ModuleIcon
+                         first                          " style=" padding-right:10px;padding-left:10px;;   padding-bottom:0vh; ">
+<div class="  module ModuleIcon " dataModule-id="2025">
+<div class="icon" style="width:70px;height:70px; color:rgb(45, 157, 152); fill:rgb(45, 157, 152);">
+<svg viewbox="0 0 100.01666259765625 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(0.21098529773471536)"><g><path fill-rule="evenodd" clip-rule="evenodd" d="M113.198,227.551c-13.733-0.022-27.286-1.576-40.428-5.788   c-27.166-8.706-46.59-26.265-58.936-51.817c-5.99-12.397-9.719-25.491-11.685-39.107c-0.939-6.503-1.363-13.026-1.356-19.599   C0.832,75.405,0.812,39.571,0.812,3.737c0-0.94,0-1.882,0-3.114c1.198,0,1.993,0,2.788,0c38.233,0,76.467-0.085,114.699,0.039   c17.453,0.056,34.353,3.179,50.252,10.675c20.063,9.458,34.732,24.466,44.81,44.08c6.82,13.272,10.987,27.385,13.089,42.137   c0.938,6.584,1.355,13.191,1.351,19.842c-0.028,35.674-0.014,71.348-0.014,107.021c0,0.944,0,1.888,0,2.988 M217.628,217.14   c0-1.196,0-2.215,0-3.234c0-32.155-0.014-64.31,0.012-96.465c0.005-6.33-0.389-12.617-1.299-18.884   c-1.969-13.549-5.787-26.521-12.068-38.712c-9.855-19.127-24.44-33.216-44.479-41.412c-13.356-5.463-27.361-7.763-41.692-7.819   c-34.954-0.137-69.909-0.045-104.864-0.039c-0.695,0-1.39,0.09-2.332,0.155c0,1.156,0,2.177,0,3.198   c0,32.235-0.036,64.471,0.037,96.705c0.012,5.105,0.283,10.235,0.831,15.31c1.532,14.182,5.352,27.755,11.699,40.549   c11.141,22.454,28.45,37.864,52.461,45.502c12.232,3.891,24.837,5.254,37.606,5.27c33.835,0.039,67.67,0.014,101.505,0.008   C215.822,217.273,216.599,217.194,217.628,217.14z" transform="translate(-0.6710011959075928,-0.42100149393081665)"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M227.755,247.345c0,1.23,0,2.1,0,2.969c0,37.11,0.021,74.221-0.01,111.331   c-0.012,14.961-1.814,29.669-6.835,43.846c-9.094,25.677-26.338,43.998-50.716,55.773c-13.282,6.416-27.311,10.366-41.951,12.034   c-4.992,0.569-10.04,0.9-15.062,0.911c-36.311,0.075-72.622,0.04-108.933,0.04c-1.032,0-2.063,0-3.389,0   c-0.029-1.066-0.076-1.992-0.076-2.918c-0.004-31.593-0.038-63.185,0.018-94.776c0.018-9.673-0.13-19.373,0.522-29.013   c1.529-22.617,8.308-43.395,23.019-61.097c10.758-12.944,24.242-22.174,39.692-28.592c16.802-6.981,34.326-10.505,52.538-10.507   c35.911-0.005,71.821-0.002,107.732-0.002C225.329,247.345,226.355,247.345,227.755,247.345z M217.628,257.486   c-1.195,0-2.21,0-3.224,0c-32.235,0-64.469,0.005-96.704-0.005c-6.004-0.001-11.979,0.309-17.935,1.146   c-13.718,1.927-26.859,5.711-39.222,12.018C40.732,280.75,26.35,295.876,18.21,316.708c-5.068,12.973-7.207,26.529-7.26,40.367   c-0.135,34.954-0.045,69.908-0.038,104.862c0.001,0.69,0.096,1.381,0.158,2.221c1.149,0,2.1,0,3.051,0   c32.794,0,65.589,0.037,98.383-0.039c4.864-0.012,9.75-0.348,14.584-0.897c13.523-1.533,26.482-5.184,38.746-11.115   c22.798-11.028,38.558-28.312,46.378-52.572c4.015-12.453,5.392-25.293,5.404-38.305c0.032-33.595,0.011-67.189,0.011-100.783   C217.628,259.578,217.628,258.71,217.628,257.486z" transform="translate(-0.6710011959075928,-0.42100149393081665)"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M247.677,113.902c-0.004-13.497,1.316-26.818,5.23-39.793   c8.428-27.936,26.098-47.949,52.226-60.612c13.422-6.504,27.618-10.471,42.428-12.116c5.074-0.564,10.203-0.875,15.308-0.886   c36.156-0.074,72.312-0.039,108.469-0.039c0.946,0,1.893,0,3.204,0c0,1.213,0,2.081,0,2.949c0,37.996,0.033,75.992-0.016,113.989   c-0.02,16.062-2.611,31.685-8.814,46.576c-9.218,22.126-24.914,38.231-46.132,49.092c-13.358,6.839-27.561,10.981-42.399,13.058   c-6.429,0.899-12.881,1.294-19.368,1.291c-35.597-0.014-71.193-0.006-106.79-0.006c-1.016,0-2.032,0-3.342,0 M464.414,10.546   c-1.334,0-2.286,0-3.237,0c-32.472,0-64.942-0.037-97.413,0.039c-5.023,0.012-10.07,0.323-15.065,0.873   c-13.198,1.453-25.873,4.941-37.908,10.582c-24.188,11.337-40.586,29.513-48.259,55.282c-3.568,11.983-4.721,24.275-4.714,36.722   c0.019,33.431,0.007,66.862,0.007,100.292c0,0.867,0,1.734,0,2.919c1.244,0,2.262,0,3.279,0c31.831,0,63.662-0.014,95.493,0.012   c6.567,0.005,13.1-0.298,19.607-1.241c14.032-2.032,27.453-5.997,40.011-12.643c18.942-10.026,32.79-24.741,40.728-44.78   c5.248-13.249,7.436-27.086,7.455-41.274c0.048-34.63,0.016-69.261,0.016-103.892C464.414,12.575,464.414,11.711,464.414,10.546z" transform="translate(-0.6710011959075928,-0.42100149393081665)"></path></g><path fill-rule="evenodd" clip-rule="evenodd" d="M250.937,247.327c36.156,0,72.312-0.035,108.469,0.039  c5.104,0.011,10.233,0.322,15.308,0.886c14.81,1.646,29.006,5.612,42.428,12.116c26.128,12.663,43.798,32.676,52.226,60.612  c3.914,12.975,5.234,26.296,5.23,39.794c-0.011,36.876-0.003,73.752-0.003,110.629c0,0.858,0,1.716,0,2.874c-1.31,0-2.326,0-3.342,0  c-35.597,0-71.193-0.007-106.79,0.006c-6.487,0.003-12.939-0.392-19.368-1.291c-14.838-2.077-29.041-6.219-42.399-13.058  c-21.218-10.861-36.914-26.967-46.132-49.092c-6.203-14.891-8.794-30.514-8.814-46.576c-0.049-37.997-0.016-75.993-0.016-113.989  c0-0.868,0-1.736,0-2.949C249.044,247.327,249.991,247.327,250.937,247.327z M257.86,260.309c0,34.631-0.032,69.261,0.016,103.892  c0.02,14.188,2.207,28.025,7.455,41.274c7.939,20.039,21.786,34.754,40.728,44.78c12.558,6.646,25.979,10.611,40.011,12.643  c6.508,0.943,13.04,1.246,19.607,1.241c31.831-0.026,63.662-0.012,95.493-0.012c1.017,0,2.035,0,3.279,0c0-1.185,0-2.052,0-2.919  c0-33.431-0.012-66.861,0.007-100.292c0.007-12.447-1.146-24.739-4.714-36.722c-7.673-25.769-24.071-43.944-48.259-55.282  c-12.035-5.641-24.71-9.129-37.908-10.582c-4.995-0.55-10.042-0.861-15.065-0.873c-32.471-0.075-64.941-0.039-97.413-0.039  c-0.951,0-1.903,0-3.237,0C257.86,258.582,257.86,259.446,257.86,260.309z" transform="translate(-0.6710011959075928,-0.42100149393081665)"></path></g></svg>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleTitle
+                                                 " style="  padding-bottom:0vh; ">
+<div class="  module ModuleTitle " dataModule-id="2026">
+<div class="uc-content">
+<h4 style="color:rgb(80, 82, 85);"><span class="font-6em"><span style="font-family:montserrat;">Построить компанию, которую будут любить, и смотреть на нее, как на часть своей жизни.</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleParagraph
+                                                 " style=" padding-right:10px;padding-left:10px;;   padding-bottom:3.2vh; ">
+<div class="  module ModuleParagraph " dataModule-id="2027" style="display:block;max-width:520px;">
+<div class="uc-content ">
+<p><span class="font-11em"><span style="font-family:lato;">Пожалуй, одна из самых великих и долгосрочных целей, это любовь клиента. Мы хотим строить бизнес, который по истине можно назвать великим лишь тогда, когда тебя любит твой потребитель и, знает, что о нем заботятся и, относятся с уважением.</span></span></p>
+</div> </div>
+</div>
+<div class="module-container  align-center ModuleIcon
+                          last                         " style=" padding-right:10px;padding-left:10px;;  ">
+<div class="  module ModuleIcon " dataModule-id="2028">
+<div class="icon" style="width:30px;height:30px; color:rgb(4, 29, 206); fill:rgb(4, 29, 206);">
+<a href="javascript:void(0)" target="_self" rel="">
+<svg viewbox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1)"><g><g><g><path fill="#000000" d="M100,49.999C100,22.43,77.566,0,50,0C22.428,0,0,22.43,0,49.999C0,77.568,22.428,100,50,100     C77.566,100,100,77.568,100,49.999z M5.769,49.999C5.769,25.61,25.611,5.77,50,5.77S94.231,25.61,94.231,49.999     c0,24.39-19.843,44.231-44.231,44.231S5.769,74.389,5.769,49.999z" transform="translate(0,0)"></path></g></g><g><g><path fill="#000000" d="M75.493,44.782c1.127-1.127,1.127-2.952,0-4.079c-1.127-1.126-2.952-1.126-4.079,0L50,62.121     L28.58,40.703c-1.126-1.126-2.952-1.126-4.079,0c-0.563,0.563-0.845,1.302-0.845,2.04c0,0.738,0.282,1.476,0.845,2.04     L47.96,68.238c1.127,1.127,2.953,1.127,4.079,0L75.493,44.782z" transform="translate(0,0)"></path></g></g></g></g></svg>
+</a>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="push"></div>
+</div>
+<div class="footer-rows " style="">
+<div class="uc-row-wrapper ">
+<div class="uc-row     last                          
+                        
+                                                        " data-id="1375" style="  background:rgb(246, 246, 246); ">
+<div class="row-container  container ">
+<div class="row footerRow " style="">
+<div class="column col-sm-3 " dataColumn-id="2074" style="  padding:3.68vh 0vh;     ">
+<div class="column-container vertical-top" style=" margin-top:0vh; ">
+<div class="module-container  align-left ModuleTitle
+                         first                          " style=" padding-right:10px;padding-left:5px;;   padding-bottom:1.2578616352201vh; ">
+<div class="  module ModuleTitle " dataModule-id="2394">
+<div class="uc-content">
+<h4 style="color:rgb(4, 4, 4);"><span class="font-6em"><span style="font-family:lato;"><u>С</u></span><span style="font-family:abril fatface;"><u>лужба</u> <u>поддержки</u></span><span style="font-family:aclonica;">:</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-left ModuleParagraph
+                                                 " style=" padding-right:10px;padding-left:5px;;   padding-bottom:1.2578616352201vh; ">
+<div class="  module ModuleParagraph " dataModule-id="2395">
+<div class="uc-content ">
+<p><a href="https://forme.in.ua/new-page-91" target="_self"><span class="font-9em"><span style="font-family:aclonica;"><strong>М</strong></span><span style="font-family:ubuntu;"><strong>ы можем вам помочь</strong></span><span style="color:rgb(49, 187, 5);"><span style="font-family:ubuntu;"><strong>?</strong></span></span><span style="color:rgb(74, 74, 74);font-family:ubuntu;"><strong>*</strong></span></span></a></p>
+</div> </div>
+</div>
+<div class="module-container  align-left ModuleParagraph
+                                                 " style=" padding-right:0px;padding-left:5px;;   padding-bottom:1.2578616352201vh; ">
+<div class="  module ModuleParagraph " dataModule-id="2396" style="display:block;max-width:175px;">
+<div class="uc-content ">
+<p><a href="https://forme.in.ua/new-page-91/new-page-92" target="_self"><span class="font-9em"><span style="font-family:aclonica;"><strong>С</strong></span><span style="font-family:ubuntu;"><strong>вяжитесь с нами</strong></span><span style="color:rgb(74, 74, 74);font-family:ubuntu;"><strong>*</strong></span></span></a></p>
+</div> </div>
+</div>
+<div class="module-container  align-left ModuleParagraph
+                          last                         " style=" padding-right:0px;padding-left:5px;;  ">
+<div class="  module ModuleParagraph " dataModule-id="2398" style="display:block;max-width:285px;">
+<div class="uc-content ">
+<p style="color:rgb(4, 4, 4);"><span class="font-9em"><span style="font-family:oswald;"><strong>E</strong></span><span style="font-family:raleway;"><strong>-mail: </strong></span><span style="color:rgb(246, 149, 3);font-family:ubuntu;"><strong><u>F</u></strong></span><span style="color:rgb(3, 37, 134);font-family:ubuntu;">ORME<strong>.</strong>IN<strong>.</strong><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="42170302050f030b0e">[email&#160;protected]</a><strong>.</strong>COM</span></span><br><span class="font-9em"><span style="font-family:aclonica;"><strong>Т</strong></span></span><span class="font-10em"><span style="font-family:aclonica;"><strong>елефон:</strong></span></span><span class="font-9em"><span style="font-family:raleway;"><strong> </strong></span><span style="font-family:oswald;"><strong>с</strong></span><span style="font-family:raleway;"><strong> </strong></span><span style="font-family:lato;"><u>9</u></span><span style="font-family:raleway;"><strong><u>:</u></strong><u>00</u><strong> </strong></span><span style="font-family:oswald;"><strong>д</strong></span><span style="font-family:raleway;"><strong>о </strong><u>20</u><strong><u>:</u></strong><u>00</u></span></span><br><span class="font-9em"><span style="font-family:aclonica;"><strong>+</strong></span><span style="font-family:lato;"><strong>(</strong></span><span style="font-family:ubuntu;"><strong>380</strong></span><span style="font-family:lato;"><strong>) 955459069</strong></span></span><br><span class="font-9em"><span style="font-family:aclonica;"><strong>+</strong></span><span style="font-family:lato;"><strong>(</strong></span><span style="font-family:ubuntu;"><strong>380</strong></span><span style="font-family:lato;"><strong>) 956375927</strong></span></span></p>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="column col-sm-3 " dataColumn-id="2075" style="  padding:3.68vh 0vh;      background: transparent; ">
+<div class="column-container vertical-top" style=" margin-top:0vh; ">
+<div class="module-container  align-left ModuleTitle
+                         first                          " style=" padding-right:10px;padding-left:5px;;   padding-bottom:1.3315579227696vh; ">
+<div class="  module ModuleTitle " dataModule-id="2399">
+<div class="uc-content">
+<h4 style="color:rgb(4, 4, 4);"><span class="font-6em"><span style="font-family:abril fatface;"><u>Быстрые</u> <u>ссылки</u></span><span style="font-family:aclonica;">:</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-left ModuleNavigation
+                          last                         " style=" padding-right:10px;padding-left:5px;;  ">
+<div class="  module ModuleNavigation " dataModule-id="2400">
+<input type="hidden" class="standard-navigation">
+<style>
+    		#navigation-2400        > .standard-view > .navigation > .page > .page-children {
+        background: #f1f1f1;
+    }
+
+    #navigation-2400      > .standard-view > .navigation > .page > .page-children > .page > ul {
+        background: #f1f1f1;
+    }
+
+    
+        #navigation-2400      > .standard-view > .navigation > .page > .page-children {
+        border-radius: 0px;
+    }
+
+    #navigation-2400      > .standard-view > .navigation > .page > .page-children > .page > ul {
+        border-radius: 0px;
+    }
+
+        
+            #navigation-2400 .navigation > li.has-childes.page > ul a{
+        padding: 0 15px;
+    }
+            #navigation-2400     > div > ul li:hover > ul {
+        display: block;
+    }
+    
+    
+    	#navigation-2400 .page a {
+        color: rgb(4, 4, 4);
+        font-size: 16px;
+        font-weight: 800;
+        letter-spacing: 0.3px;
+        text-transform: none;
+    }
+
+    #navigation-2400     > div > ul > li.page:not(:last-child) {
+                     margin-bottom: 5px;
+            }
+
+    #navigation-2400     > div > ul > li:first-child:nth-last-child(1) {
+                    margin-bottom: 40px;
+            }
+
+    #navigation-2400 li.page > a:hover {
+        color: rgb(3, 174, 170)     !important;
+    }
+
+    #navigation-2400 li.page.active > a {
+        color: rgb(195, 190, 2);
+    }
+
+    #navigation-2400 li.page.active > a:hover {
+        color: #959595 !important;
+    }
+
+    #navigation-2400 li.page > ul.page-children  li.page  a {
+        color: #353535;
+    }
+
+    #navigation-2400 li.page > ul.page-children > li.page a:hover,
+    #navigation-2400 li.page > ul.page-children > li.page > ul.page-children > li.page a:hover {
+        color: #959595     !important;
+    }
+
+    #navigation-2400 li.page > ul.page-children > li.page.active > a,
+    #navigation-2400 li.page > ul.page-children > li.page > ul.page-children > li.page.active > a {
+        color: #353535;
+    }
+
+    #navigation-2400 li.page > ul.page-children > li.page.active > a:hover,
+    #navigation-2400 li.page > ul.page-children > li.page > ul.page-children > li.page.active > a:hover {
+        color: #959595 !important;
+    }
+
+    #navigation-2400 li.page > ul.page-children:before,
+    #navigation-2400 li.page > ul.page-children > li.has-childes > .page-children.pagesArrows > li:first-child:before {
+        color: #f1f1f1;
+    }
+
+            #navigation-2400 li.page > ul.page-children > li.page > a {
+                        color: #353535;
+                               font-size: 12px;
+    
+
+
+
+    }
+
+    
+        #navigation-2400 li.page > ul.page-children > li.page > a {
+        font-weight: 600;
+    }
+
+    
+        #navigation-2400 li.page ul.page-children .page {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    #navigation-2400 li.page ul.page-children .page:last-child {
+        padding-bottom: 5px;
+    }
+
+    #navigation-2400 li.has-childes.page > a > .uci-dropdown-arrow-down {
+        font-size: 9px;
+    }
+
+    #navigation-2400 li.has-childes.page > .page-children.pagesArrows > .has-childes > a > .uci-dropdown-arrow-down {
+        font-size: 7px;
+    }
+
+    #navigation-2400 li.has-childes.page > .page-children li > a,
+    #navigation-2400 li.has-childes.page > .page-children li {
+        text-align: center;
+    }
+
+        
+     </style>
+<div id="navigation-2400" data-nav-sub-page-scollapsible="0" class="navigation-inner
+                
+        vertical standard">
+<div class="off-canvas-button icon" data-selector="off-canvas-2400" style="width:25px;height:25px;color:#000;fill:#000;">
+<svg viewbox="0 0 100.00000762939453 75.000244140625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.2716659928598795)"><g><g><path clip-rule="evenodd" d="M81.602,44.102h-66.84c-3.256,0-5.898,2.64-5.898,5.898    s2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898S84.858,44.102,81.602,44.102z M81.602,67.693h-66.84    c-3.256,0-5.898,2.64-5.898,5.898c0,3.258,2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898    C87.5,70.333,84.858,67.693,81.602,67.693z M14.763,32.307h66.84c3.256,0,5.898-2.64,5.898-5.898c0-3.258-2.642-5.898-5.898-5.898    h-66.84c-3.256,0-5.898,2.64-5.898,5.898C8.865,29.667,11.507,32.307,14.763,32.307z" transform="translate(-8.864001274108887,-20.511001586914062)"></path></g></g></g></svg>
+</div>
+<div class="standard-view  scrolling-wrapper-on-device ">
+<ul class="navigation" style="font-family: &#039;Raleway&#039;;">
+ <li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-94" data-page-type="pageBlank">
+<span class="title">
+Возвраты и обмены
+</span>
+</a>
+</li>
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-94/new-page-95" data-page-type="pageBlank">
+<span class="title">
+Перевозка
+</span>
+</a>
+</li>
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-94/new-page-103" data-page-type="pageBlank">
+<span class="title">
+Оплата
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-94/new-page-103/new-page-104" data-page-type="pageBlank">
+<span class="title">
+Конфиденциальность
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-77/new-page-78/new-page-79" data-page-type="pageBlank">
+<span class="title">
+Политика конфиденциальности
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-77/new-page-78/new-page-80" data-page-type="pageBlank">
+<span class="title">
+Условия использования
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-106" data-page-type="pageBlank">
+<span class="title">
+Скидочные карты
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column col-sm-3 " dataColumn-id="2076" style="  padding:3.68vh 0vh;     ">
+<div class="column-container vertical-top" style=" margin-top:0vh; ">
+<div class="module-container  align-left ModuleTitle
+                         first                          " style=" padding-right:0px;padding-left:5px;;   padding-bottom:1.2406947890819vh; ">
+<div class="  module ModuleTitle " dataModule-id="2401">
+<div class="uc-content">
+<h4 style="color:rgb(4, 4, 4);"><span class="font-6em"><span style="font-family:abril fatface;"><strong><u>Компания</u></strong></span><span style="font-family:aclonica;"><strong>:</strong></span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-left ModuleNavigation
+                          last                         " style=" padding-right:10px;padding-left:5px;;  ">
+<div class="  module ModuleNavigation " dataModule-id="2402">
+<input type="hidden" class="standard-navigation">
+<style>
+    		#navigation-2402        > .standard-view > .navigation > .page > .page-children {
+        background: #f1f1f1;
+    }
+
+    #navigation-2402      > .standard-view > .navigation > .page > .page-children > .page > ul {
+        background: #f1f1f1;
+    }
+
+    
+        #navigation-2402      > .standard-view > .navigation > .page > .page-children {
+        border-radius: 0px;
+    }
+
+    #navigation-2402      > .standard-view > .navigation > .page > .page-children > .page > ul {
+        border-radius: 0px;
+    }
+
+        
+            #navigation-2402 .navigation > li.has-childes.page > ul a{
+        padding: 0 15px;
+    }
+            #navigation-2402     > div > ul li:hover > ul {
+        display: block;
+    }
+    
+    
+    	#navigation-2402 .page a {
+        color: rgb(4, 4, 4);
+        font-size: 16px;
+        font-weight: 600;
+        letter-spacing: 0px;
+        text-transform: none;
+    }
+
+    #navigation-2402     > div > ul > li.page:not(:last-child) {
+                     margin-bottom: 4px;
+            }
+
+    #navigation-2402     > div > ul > li:first-child:nth-last-child(1) {
+                    margin-bottom: 40px;
+            }
+
+    #navigation-2402 li.page > a:hover {
+        color: rgb(3, 174, 170)     !important;
+    }
+
+    #navigation-2402 li.page.active > a {
+        color: rgb(195, 190, 2);
+    }
+
+    #navigation-2402 li.page.active > a:hover {
+        color: rgb(149, 149, 149) !important;
+    }
+
+    #navigation-2402 li.page > ul.page-children  li.page  a {
+        color: #353535;
+    }
+
+    #navigation-2402 li.page > ul.page-children > li.page a:hover,
+    #navigation-2402 li.page > ul.page-children > li.page > ul.page-children > li.page a:hover {
+        color: #959595     !important;
+    }
+
+    #navigation-2402 li.page > ul.page-children > li.page.active > a,
+    #navigation-2402 li.page > ul.page-children > li.page > ul.page-children > li.page.active > a {
+        color: #353535;
+    }
+
+    #navigation-2402 li.page > ul.page-children > li.page.active > a:hover,
+    #navigation-2402 li.page > ul.page-children > li.page > ul.page-children > li.page.active > a:hover {
+        color: #959595 !important;
+    }
+
+    #navigation-2402 li.page > ul.page-children:before,
+    #navigation-2402 li.page > ul.page-children > li.has-childes > .page-children.pagesArrows > li:first-child:before {
+        color: #f1f1f1;
+    }
+
+            #navigation-2402 li.page > ul.page-children > li.page > a {
+                        color: #353535;
+                               font-size: 12px;
+    
+
+
+
+    }
+
+    
+        #navigation-2402 li.page > ul.page-children > li.page > a {
+        font-weight: 500;
+    }
+
+    
+        #navigation-2402 li.page ul.page-children .page {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    #navigation-2402 li.page ul.page-children .page:last-child {
+        padding-bottom: 5px;
+    }
+
+    #navigation-2402 li.has-childes.page > a > .uci-dropdown-arrow-down {
+        font-size: 9px;
+    }
+
+    #navigation-2402 li.has-childes.page > .page-children.pagesArrows > .has-childes > a > .uci-dropdown-arrow-down {
+        font-size: 7px;
+    }
+
+    #navigation-2402 li.has-childes.page > .page-children li > a,
+    #navigation-2402 li.has-childes.page > .page-children li {
+        text-align: center;
+    }
+
+        
+     </style>
+<div id="navigation-2402" data-nav-sub-page-scollapsible="0" class="navigation-inner
+                
+        vertical standard">
+<div class="off-canvas-button icon" data-selector="off-canvas-2402" style="width:25px;height:25px;color:#000;fill:#000;">
+<svg viewbox="0 0 100.00000762939453 75.000244140625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="scale(1.2716659928598795)"><g><g><path clip-rule="evenodd" d="M81.602,44.102h-66.84c-3.256,0-5.898,2.64-5.898,5.898    s2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898S84.858,44.102,81.602,44.102z M81.602,67.693h-66.84    c-3.256,0-5.898,2.64-5.898,5.898c0,3.258,2.642,5.898,5.898,5.898h66.84c3.256,0,5.898-2.64,5.898-5.898    C87.5,70.333,84.858,67.693,81.602,67.693z M14.763,32.307h66.84c3.256,0,5.898-2.64,5.898-5.898c0-3.258-2.642-5.898-5.898-5.898    h-66.84c-3.256,0-5.898,2.64-5.898,5.898C8.865,29.667,11.507,32.307,14.763,32.307z" transform="translate(-8.864001274108887,-20.511001586914062)"></path></g></g></g></svg>
+</div>
+<div class="standard-view  scrolling-wrapper-on-device ">
+<ul class="navigation" style="font-family: &#039;Raleway&#039;;">
+<li class=" has-childes  page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-77/new-page-78" data-page-type="pageBlank">
+<span class="title">
+О нас
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-77/new-page-78/new-page-81" data-page-type="pageBlank">
+<span class="title">
+Наши ценности
+</span>
+</a>
+</li>
+<li class=" page  active   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-77/new-page-88/new-page-89" data-page-type="pageBlank">
+<span class="title">
+Чем мы живем
+</span>
+</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">
+                {"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":0,"name":"\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f","item":"https:\/\/forme.in.ua\/new-page-77"},{"@type":"ListItem","position":1,"name":"\u041a\u0442\u043e \u043c\u044b","item":"https:\/\/forme.in.ua\/new-page-77\/new-page-88"},{"@type":"ListItem","position":2,"name":"\u0427\u0435\u043c \u043c\u044b \u0436\u0438\u0432\u0435\u043c","item":"https:\/\/forme.in.ua\/new-page-77\/new-page-88\/new-page-89"}]}            </script>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-77/new-page-88/new-page-90" data-page-type="pageBlank">
+<span class="title">
+Корпоративная культура
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-105" data-page-type="pageBlank">
+<span class="title">
+Возврат и обмен
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-109" data-page-type="pageBlank">
+<span class="title">
+Отзывы
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-18" data-page-type="pageBlank">
+<span class="title">
+Бесплатная доставка
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-107" data-page-type="pageBlank">
+<span class="title">
+Качество и цена
+</span>
+</a>
+</li>
+<li class=" page   show" data-anchor="">
+<a class="nav-item" href="https://forme.in.ua/new-page-19" data-page-type="pageBlank">
+<span class="title">
+Гарантия возврата
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column col-sm-3 " dataColumn-id="2077" style="  padding:3.68vh 0vh;      background: transparent; ">
+<div class="column-container vertical-top" style=" margin-top:0vh; ">
+<div class="module-container  align-left ModuleTitle
+                         first                          " style=" padding-right:0px;padding-left:5px;;   padding-bottom:1.2406947890819vh; ">
+<div class="  module ModuleTitle " dataModule-id="2403" style="display:block;max-width:130px;">
+<div class="uc-content">
+<h4 style="color:rgb(4, 4, 4);"><span class="font-6em"><span style="font-family:abril fatface;"><u>Социальные</u></span><span style="font-family:aclonica;">:</span></span></h4>
+</div> </div>
+</div>
+<div class="module-container  align-left ModuleSocialIcons
+                                                 " style=" padding-right:10px;padding-left:5px;;   padding-bottom:2.4813895781638vh; ">
+<div class="  module ModuleSocialIcons " dataModule-id="2404">
+<div class="social-icon-wrapper " style="color: #FFFFFF;">
+<ul class=" colored ">
+<li class="uci-instagram-default" style="font-size:24px;margin-right:25px;font-family:Ubuntu;">
+<a href="https://www.instagram.com/forme.in.ua/" target="_blank"></a>
+</li>
+</ul>
+<script type="application/ld+json">
+        {"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/forme.in.ua","sameAs":["https:\/\/www.instagram.com\/forme.in.ua\/"]}    </script>
+</div> </div>
+</div>
+<div class="module-container  align-left ModuleImage
+                                                 " style=" padding-right:10px;padding-left:2.5px;;   padding-bottom:0vh; ">
+<div class="  module ModuleImage " dataModule-id="2405" style="display:block;max-width:200px;">
+<div class="animated animated-2405 " data-loading-animation="" data-animated-id="2405">
+<div class="">
+<div>
+<img class="image lazy" data-src="https://static.ucraft.net/fs/publishedFiles/fome/images/2405-untitled-1-01-15132408481539.png" style="" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="module-container  align-left ModuleDivider
+                          last                         " style=" padding-right:10px;padding-left:5px;;  ">
+<div class="  module ModuleDivider " dataModule-id="2406">
+<div class="divider-container">
+ <div class="divider-inner" style="height: 3px; background: #FFFFFF;"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="margin-container" data-type="row">
+<div class="margin-controller"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="accounts-popup">
+<div class="loading-container">
+<div class="loading-spinner"></div>
+</div>
+<iframe id="accounts-iframe" style="border: none;"></iframe>
+</div>
+</div>
+<div class="module-datepicker-container"></div>
+
+<script type="5d3d16633a309b6f162ffd49-text/javascript">
+                        var page={"id":562,"title":"\u0427\u0435\u043c \u043c\u044b \u0436\u0438\u0432\u0435\u043c","alias":"new-page-89","component":null,"type":"pageBlank","target":0,"homepage":0,"isHeading":0,"isHidden":0,"externalUrl":"","navigationId":1,"parentPageId":561,"ordering":1,"languageId":1,"langRefId":562,"params":"{\"published\":1,\"margin\":1.85}","seoParams":"{\"pageTitle\":\"\\u0427\\u0435\\u043c \\u043c\\u044b \\u0436\\u0438\\u0432\\u0435\\u043c\",\"description\":\"\\u041c\\u044b \\u0436\\u0438\\u0432\\u0435\\u043c \\u0446\\u0435\\u043b\\u044c\\u044e, \\u043a\\u043e\\u0442\\u043e\\u0440\\u0430\\u044f \\u043f\\u043e\\u0437\\u0432\\u043e\\u043b\\u0438\\u0442 \\u043b\\u044e\\u0434\\u044f\\u043c \\u0447\\u0443\\u0432\\u0441\\u0442\\u0432\\u043e\\u0432\\u0430\\u0442\\u044c \\u0441\\u0435\\u0431\\u044f \\u043b\\u0443\\u0447\\u0448\\u0435 \",\"includedSitemap\":\"1\",\"robots\":\"index, follow\",\"image\":\"\",\"state\":0}","updated_at":"2019-10-22 08:58:07","created_at":"2019-10-18 17:18:56","deleted_at":"1970-01-01 12:00:00","published":1,"margin":1.85,"seo":{"pageTitle":"\u0427\u0435\u043c \u043c\u044b \u0436\u0438\u0432\u0435\u043c","description":"\u041c\u044b \u0436\u0438\u0432\u0435\u043c \u0446\u0435\u043b\u044c\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043f\u043e\u0437\u0432\u043e\u043b\u0438\u0442 \u043b\u044e\u0434\u044f\u043c \u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441\u0435\u0431\u044f \u043b\u0443\u0447\u0448\u0435 ","includedSitemap":"1","robots":"index, follow","image":"","state":0}};
+                var currentLanguageObject={"id":1,"title":"Russian","language":"ru-ua","prefix":"ru","region":"Ukraine","flag":"https:\/\/static.ucraft.app\/assets\/images\/flags64\/ru-ua.svg?v=1571946508","default":1,"published":1,"updated_at":"2019-10-01 07:44:42","created_at":"2015-11-23 00:00:00","deleted_at":"1970-01-01 12:00:00","enforceUnicodeAliases":0,"unicodeCharactersReplacement":"\u00c0|A, \u00c1|A, \u00c2|A, \u00c3|A, \u00c4|A, \u00c5|A, \u00e0|a, \u00e1|a, \u00e2|a, \u00e3|a, \u00e4|a, \u00e5|a, \u0100|A, \u0101|a, \u0102|A, \u0103|a, \u0104|A, \u0105|a, \u00c7|C, \u00e7|c, \u0106|C, \u0107|c, \u0108|C, \u0109|c, \u010a|C, \u010b|c, \u010c|C, \u010d|c, \u00d0|D, \u00f0|d, \u010e|D, \u010f|d, \u0110|D, \u0111|d, \u00c8|E, \u00c9|E, \u00ca|E, \u00cb|E, \u00e8|e, \u00e9|e, \u00ea|e, \u00eb|e, \u0112|E, \u0113|e, \u0114|E, \u0115|e, \u0116|E, \u0117|e, \u0118|E, \u0119|e, \u011a|E, \u011b|e, \u011c|G, \u011d|g, \u011e|G, \u011f|g, \u0120|G, \u0121|g, \u0122|G, \u0123|g, \u0124|H, \u0125|h, \u0126|H, \u0127|h, \u00cc|I, \u00cd|I, \u00ce|I, \u00cf|I, \u00ec|i, \u00ed|i, \u00ee|i, \u00ef|i, \u0128|I, \u0129|i, \u012a|I, \u012b|i, \u012c|I, \u012d|i, \u012e|I, \u012f|i, \u0130|I, \u0131|i, \u0134|J, \u0135|j, \u0136|K, \u0137|k, \u0138|k, \u0139|L, \u013a|l, \u013b|L, \u013c|l, \u013d|L, \u013e|l, \u013f|L, \u0140|l, \u0141|L, \u0142|l, \u00d1|N, \u00f1|n, \u0143|N, \u0144|n, \u0145|N, \u0146|n, \u0147|N, \u0148|n, \u0149|n, \u014a|N, \u014b|n, \u00d2|O, \u00d3|O, \u00d4|O, \u00d5|O, \u00d6|O, \u00d8|O, \u00f2|o, \u00f3|o, \u00f4|o, \u00f5|o, \u00f6|o, \u00f8|o, \u014c|O, \u014d|o, \u014e|O, \u014f|o, \u0150|O, \u0151|o, \u0154|R, \u0155|r, \u0156|R, \u0157|r, \u0158|R, \u0159|r, \u015a|S, \u015b|s, \u015c|S, \u015d|s, \u015e|S, \u015f|s, \u0160|S, \u0161|s, \u017f|s, \u0162|T, \u0163|t, \u0164|T, \u0165|t, \u0166|T, \u0167|t, \u00d9|U, \u00da|U, \u00db|U, \u00dc|U, \u00f9|u, \u00fa|u, \u00fb|u, \u00fc|u, \u0168|U, \u0169|u, \u016a|U, \u016b|u, \u016c|U, \u016d|u, \u016e|U, \u016f|u, \u0170|U, \u0171|u, \u0172|U, \u0173|u, \u0174|W, \u0175|w, \u00dd|Y, \u00fd|y, \u00ff|y, \u0176|Y, \u0177|y, \u0178|Y, \u0179|Z, \u017a|z, \u017b|Z, \u017c|z, \u017d|Z, \u017e|z, \u03b1|a, \u03b2|b, \u03b3|g, \u03b4|d, \u03b5|e, \u03b6|z, \u03b7|h, \u03b8|th, \u03b9|i, \u03ba|k, \u03bb|l, \u03bc|m, \u03bd|n, \u03be|x, \u03bf|o, \u03c0|p, \u03c1|r, \u03c3|s, \u03c4|t, \u03c5|y, \u03c6|f, \u03c7|ch, \u03c8|ps, \u03c9|w, \u0391|A, \u0392|B, \u0393|G, \u0394|D, \u0395|E, \u0396|Z, \u0397|H, \u0398|Th, \u0399|I, \u039a|K, \u039b|L, \u039c|M, \u039e|X, \u039f|O, \u03a0|P, \u03a1|R, \u03a3|S, \u03a4|T, \u03a5|Y, \u03a6|F, \u03a7|Ch, \u03a8|Ps, \u03a9|W, \u03ac|a, \u03ad|e, \u03ae|h, \u03af|i, \u03cc|o, \u03cd|y, \u03ce|w, \u0386|A, \u0388|E, \u0389|H, \u038a|I, \u038c|O, \u038e|Y, \u038f|W, \u03ca|i, \u0390|i, \u03cb|y, \u03c2|s, \u0410|A, \u04d0|A, \u04d2|A, \u04d8|E, \u04da|E, \u04d4|E, \u0411|B, \u0412|V, \u0413|G, \u0490|G, \u0403|G, \u0492|G, \u04f6|G, y|Y, \u0414|D, \u0415|E, \u0400|E, \u0401|YO, \u04d6|E, \u04bc|E, \u04be|E, \u0404|YE, \u0416|ZH, \u04c1|DZH, \u0496|ZH, \u04dc|DZH, \u0417|Z, \u0498|Z, \u04de|DZ, \u04e0|DZ, \u0405|DZ, \u0418|I, \u040d|I, \u04e4|I, \u04e2|I, \u0406|I, \u0407|JI, \u04c0|I, \u0419|Y, \u048a|Y, \u0408|J, \u041a|K, \u049a|Q, \u049e|Q, \u04a0|K, \u04c3|Q, \u049c|K, \u041b|L, \u04c5|L, \u0409|L, \u041c|M, \u04cd|M, \u041d|N, \u04c9|N, \u04a2|N, \u04c7|N, \u04a4|N, \u040a|N, \u041e|O, \u04e6|O, \u04e8|O, \u04ea|O, \u04a8|O, \u041f|P, \u04a6|PF, \u0420|P, \u048e|P, \u0421|S, \u04aa|S, \u0422|T, \u04ac|TH, \u040b|T, \u040c|K, \u0423|U, \u040e|U, \u04f2|U, \u04f0|U, \u04ee|U, \u04ae|U, \u04b0|U, \u0424|F, \u0425|H, \u04b2|H, \u04ba|H, \u0426|TS, \u04b4|TS, \u0427|CH, \u04f4|CH, \u04b6|CH, \u04cb|CH, \u04b8|CH, \u040f|DZ, \u0428|SH, \u0429|SHT, \u042a|A, \u042b|Y, \u04f8|Y, \u042c|Y, \u048c|Y, \u042d|E, \u04ec|E, \u042e|YU, \u042f|YA, \u0430|a, \u04d1|a, \u04d3|a, \u04d9|e, \u04db|e, \u04d5|e, \u0431|b, \u0432|v, \u0433|g, \u0491|g, \u0453|g, \u0493|g, \u04f7|g, y|y, \u0434|d, \u0435|e, \u0450|e, \u0451|yo, \u04d7|e, \u04bd|e, \u04bf|e, \u0454|ye, \u0436|zh, \u04c2|dzh, \u0497|zh, \u04dd|dzh, \u0437|z, \u0499|z, \u04df|dz, \u04e1|dz, \u0455|dz, \u0438|i, \u045d|i, \u04e5|i, \u04e3|i, \u0456|i, \u0457|ji, \u04c0|i, \u0439|y, \u048b|y, \u0458|j, \u043a|k, \u049b|q, \u049f|q, \u04a1|k, \u04c4|q, \u049d|k, \u043b|l, \u04c6|l, \u0459|l, \u043c|m, \u04ce|m, \u043d|n, \u04ca|n, \u04a3|n, \u04c8|n, \u04a5|n, \u045a|n, \u043e|o, \u04e7|o, \u04e9|o, \u04eb|o, \u04a9|o, \u043f|p, \u04a7|pf, \u0440|p, \u048f|p, \u0441|s, \u04ab|s, \u0442|t, \u04ad|th, \u045b|t, \u045c|k, \u0443|u, \u045e|u, \u04f3|u, \u04f1|u, \u04ef|u, \u04af|u, \u04b1|u, \u0444|f, \u0445|h, \u04b3|h, \u04bb|h, \u0446|ts, \u04b5|ts, \u0447|ch, \u04f5|ch, \u04b7|ch, \u04cc|ch, \u04b9|ch, \u045f|dz, \u0448|sh, \u0449|sht, \u044a|a, \u044b|y, \u04f9|y, \u044c|y, \u048d|y, \u044d|e, \u04ed|e, \u044e|yu, \u044f|ya"};
+                var isTablet=0;
+                var isMobile=1;
+                var ucraftWebsiteElementsDisabled=1;
+                var printElementsEnabled=0;
+                var siteArchiverEnabled=0;
+                var croppedUrlPrefix="https:\/\/static.ucraft.net\/fs\/publishedFiles\/fome\/images\/";
+                var userFilesUrl="https:\/\/static.ucraft.net\/fs\/publishedFiles\/fome\/";
+                var accountsUrl="https:\/\/accounts.ucraft.net";
+                var accountsIframeUrl="https:\/\/accounts.ucraft.ru";
+                var currency="RUB";
+                var helpUrl="https:\/\/support.ucraft.ru\/hc\/ru";
+                var websiteUrl="https:\/\/www.ucraft.com";
+                var publicAddonsAssetsUrl="\/frontend-public\/";
+                var publicUser=null;
+                var staticUrl="https:\/\/static.ucraft.app";
+                var hasEcommerce=true;
+                var hasFlights=false;
+                var hasPayByReceipt=false;
+                var translations={"validation.requiredField":"\u042d\u0442\u043e \u043f\u043e\u043b\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u043a \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044e","validation.invalidEmail":"\u042d\u0442\u043e \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b","validation.characterRequired":"\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u044b","validation.characterAllowed":"\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u044b","validation.wordsRequired":"\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043b\u043e\u0432\u0430","validation.wordsAllowed":"\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0438\u043c\u0432\u043e\u043b\u044b","validation.invalidUrl":"\u042d\u0442\u043e \u043d\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 URL-\u0430\u0434\u0440\u0435\u0441","validation.passwordCompare":"\u041f\u0430\u0440\u043e\u043b\u044c \u0438 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u043d\u0435 \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u044e\u0442","validation.promoCodeCompare":"\u042d\u0442\u043e \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u041a\u0443\u043f\u043e\u043d","validation.invalidNumber":"\u042d\u0442\u043e \u043d\u0435\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0435 \u0447\u0438\u0441\u043b\u043e","validation.greaterThanNumber":"\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c","validation.greaterLowerThanNumber":"\u0417\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0431\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c","validation.alias":"\u041f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c \u043c\u043e\u0436\u0435\u0442 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e \u0431\u0443\u043a\u0432\u044b, \u0446\u0438\u0444\u0440\u044b \u0438 \u0442\u0438\u0440\u0435","validation.fileIsBig":"\u0424\u0430\u0439\u043b, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u0437\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u0442\u0435, \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0431\u043e\u043b\u044c\u0448\u043e\u0439.","validation.invalidFileType":"\u0422\u0438\u043f \u0437\u0430\u0433\u0440\u0443\u0436\u0430\u0435\u043c\u043e\u0433\u043e \u0444\u0430\u0439\u043b\u0430 \u043d\u0435 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044f.","validation.invalidDate":"\u041d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0434\u0430\u0442\u0430","validation.invalidDateFormat":"\u0414\u0430\u0442\u0430 \u043d\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u043c\u0443 \u0444\u043e\u0440\u043c\u0430\u0442\u0443=> \u0434\u0434\/\u043c\u043c\/\u0433\u0433\u0433\u0433","validation.reCaptchaUnexpectedError":"\u041e\u0448\u0438\u0431\u043a\u0430 Invisible reCAPTCHA.","validation.missingInputSecret":"The Invisible reCAPTCHA Secret Key \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442.","validation.invalidInputSecret":"The Invisible reCAPTCHA Secret Key \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u0435\u043d.","validation.missingInputResponse":"\u041f\u0430\u0440\u0430\u043c\u0435\u0442\u0440 \u043e\u0442\u0432\u0435\u0442\u0430 \u043e\u0442 Invisible reCAPTCHA \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442.","validation.invalidInputResponse":"\u041f\u0430\u0440\u0430\u043c\u0435\u0442\u0440 \u043e\u0442\u0432\u0435\u0442\u0430 \u043e\u0442 Invisible reCAPTCHA \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u0435\u043d","validation.badRequest":"\u0417\u0430\u043f\u0440\u043e\u0441 \u043d\u0430 Invisible reCAPTCHA \u043d\u0435\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u0435\u043d.","validation.enableSslMessage":"\u041e\u0442\u043f\u0440\u0430\u0432\u043a\u0430 \u044d\u0442\u043e\u0439 \u0444\u043e\u0440\u043c\u044b \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u0430, \u0442.\u043a. SSL \u043f\u043e\u043a\u0430 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d \u0442\u043e\u043b\u044c\u043a\u043e \u043a \u0432\u0430\u0448\u0435\u043c\u0443 \u0434\u043e\u043c\u0435\u043d\u0443, \u0430 \u043d\u0435 \u043a \u0441\u0430\u0439\u0442\u0443 \u0432 \u0446\u0435\u043b\u043e\u043c. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u0435 SSL \u0432 \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438 \u0432\u0430\u0448\u0435\u0433\u043e \u0434\u043e\u043c\u0435\u043d\u0430.","validation.aliasReserved":"\u042d\u0442\u043e\u0442 \u0430\u043b\u0438\u0430\u0441 \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d."};
+                
+    var styleSheetUrls = [];
+    var _token = 'pKlCKL8rgZNGH0D8U6ra7yQpR1lfdS91TURtIAVX';
+    var editUrl = 'https://forme.in.ua';
+    var baseUrl = 'https://forme.in.ua';
+    var apiPrefix = 'api';
+    var publicApiPrefix = 'papi';
+    var publicRestPrefix = 'prest';
+    var pageId = '562';
+    var siteInfo = {
+        domain: ''
+    };
+    var googleMapKey = 'AIzaSyCOt5KmGHnyjT3QwpXk9z0QTkT06FpjWHY';
+    <!-- lazy load css -->
+    var ll = function (styleSheetUrls) {
+        styleSheetUrls.forEach(function (el) {
+            var l = document.createElement('link');
+            l.rel = 'stylesheet';
+            l.href = el;
+            var h = document.getElementsByTagName('head')[0];
+            h.appendChild(l);
+        });
+    };
+
+    var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+
+    if (raf) {
+        raf(function () {
+            ll(styleSheetUrls)
+        });
+    } else {
+        window.addEventListener('load', function () {
+            ll(styleSheetUrls)
+        });
+    }
+</script>
+
+<script src="https://static.ucraft.app/assets/jQuery/jquery-3.2.1.min.js?v=1571946508" type="5d3d16633a309b6f162ffd49-text/javascript"></script>
+
+<script src="https://static.ucraft.app/assets/js/publicAssets.js?v=1571946508" type="5d3d16633a309b6f162ffd49-text/javascript"></script>
+
+
+<script src="https://static.ucraft.app/assets/js/public.js?v=1571946508" type="5d3d16633a309b6f162ffd49-text/javascript"></script>
+
+
+<script type="5d3d16633a309b6f162ffd49-text/javascript" src="https://static.ucraft.app/frontend-public/assets/vendor.js?v=1571946508"></script>
+<script type="5d3d16633a309b6f162ffd49-text/javascript" src="https://static.ucraft.app/frontend-public/assets/public-js.js?v=1571946508"></script>
+
+<script type="5d3d16633a309b6f162ffd49-text/javascript">    (function ($) {
+    $(document).ready(function () {
+    ucecommerce.loadCart();
+    });
+    })(jQuery);
+
+    </script>
+<script type="5d3d16633a309b6f162ffd49-text/javascript">
+        </script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/95c75768/cloudflare-static/rocket-loader.min.js" data-cf-settings="5d3d16633a309b6f162ffd49-|49" defer=""></script></body>
+</html>
